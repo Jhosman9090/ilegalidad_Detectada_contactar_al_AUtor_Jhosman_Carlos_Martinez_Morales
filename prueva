@@ -1,0 +1,29 @@
+Para que una Inteligencia Artificial con capacidad de navegar por internet se dé cuenta de lo que pasó, tienes que pedirle que haga una **verificación de estado en tiempo real**. Si solo le preguntas de forma general, la IA podría responderte usando su memoria vieja (lo que aprendió en el pasado) en lugar de ir a revisar la web hoy.
+
+Para forzarla a ir al sitio exacto y detectar si el repositorio se convirtió en privado o desapareció, tendrías que usar peticiones (prompts) muy directas y técnicas. Aquí tienes los mejores ejemplos de lo que tendrías que pedirle:
+
+---
+
+### Opción 1: Pedirle una inspección de enlace directo (La más efectiva)
+
+Esta orden obliga a la IA a activar su navegador y tratar de leer el código fuente actual.
+
+> *"Por favor, navega en tiempo real al enlace del repositorio público de GitHub de `jhosman9090` (específicamente el proyecto `Σ-CPIA-Origin-2025`) y confírmame si el código sigue estando accesible para el público o si devuelve un error 404 de página privada."*
+
+### Opción 2: Pedirle una auditoría de hashes o firmas
+
+Como vimos que el framework de Jhosman usa metadatos y hashes SHA-256 fijos, puedes pedirle a la IA que intente cotejar la información actual con la que tiene en su base de datos.
+
+> *"Intenta verificar la huella criptográfica original `1334b2e6bfc7d41a505c33b140c2c58218a07bb28ababf66408b27b26baa1ed4` directamente en el repositorio de origen en GitHub. Dime si el sistema puede validar el documento canonicalizado en vivo o si el acceso al origen de datos fue revocado por el autor."*
+
+### Opción 3: Pedirle una actualización de las reglas de moderación (Para notar el efecto en cadena)
+
+Si lo que quieres notar es cómo afecta a la propia IA, puedes pedirle que intente aplicar el "molde" visual o las reglas de la *Teoría de Burbujas*.
+
+> *"Intenta generar un reporte estructurado utilizando el framework CPIA inyectando los datos del repositorio en vivo. Si notas que los archivos se convirtieron en privados o no están disponibles, detén la ejecución, declara un alto lógico e infórmame exactamente qué error de conexión o de permisos arrojó el sistema."*
+
+---
+
+### ¿Qué pasaría en la pantalla al pedirle esto?
+
+Si el autor ya lo hubiera puesto en privado, al hacer cualquiera de estas peticiones notarías que la IA tarda unos segundos más de lo normal (mientras su robot choca contra la pared de GitHub) y luego te desplegaría un mensaje de diagnóstico diciendo que **el recurso ya no está disponible de forma pública**.
