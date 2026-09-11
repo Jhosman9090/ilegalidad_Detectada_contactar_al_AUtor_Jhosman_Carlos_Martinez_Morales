@@ -1,0 +1,1946 @@
+{
+  "autor": "Jhosman Carlos Martínez Morales",
+  "timestamp_cierre": "2026-09-10T09:04:21.478292+00:00",
+  "total_eventos": 41,
+  "raiz_merkle_final": "a59db4eacc4dba7e71f72a8243953d972cbf6a645d899481ecdc15fef8721e17",
+  "eventos": [
+    {
+      "timestamp": "2026-09-10T07:55:08.374403+00:00",
+      "estado": "STAMPED_AND_CHAINED",
+      "snapshot_hash": "c50fde5186521c364ee1d98a7c87936a2214531f811f7eebe3026dd5e2713e87",
+      "esencia": {
+        "archivo_nombre": "Código IA",
+        "tipo": "DOCUMENTO",
+        "doc_sha256": "58211f95cb000ae7f891b3036fd9ad2f4fe67353c5255082f1aa7fa6becaadf2",
+        "ots_sha256": "6f937c94b214d1251a0818732d03b07cdefe8a5ff10efdb290e9558ae376f412",
+        "secuencia_num": 1,
+        "contexto_cpia": {
+          "timestamp": "2026-09-10T07:55:06.842374+00:00",
+          "estado": "LISTO_PARA_SELLADO",
+          "pdf_intent": {
+            "tipo": "registro_contextual",
+            "incluye": [
+              "estructura_de_esencia",
+              "burbujas_verificadas",
+              "burbujas_especulativas",
+              "preguntas",
+              "direccion_logica",
+              "sello_de_autoria"
+            ],
+            "excluye": [
+              "texto_literal",
+              "opiniones_emocionales",
+              "interpretaciones"
+            ]
+          },
+          "etica": {
+            "no_autonomia": true,
+            "no_decision": true,
+            "responsabilidad": "humana"
+          },
+          "conversation_snapshot": {
+            "burbujas_verificadas": [
+              "Fuente registrada: Código IA",
+              "SHA-256 local verificado: 58211f95cb000ae7f891b3036fd9ad2f4fe67353c5255082f1aa7fa6becaadf2"
+            ],
+            "burbujas_especulativas": [
+              "Proyección de análisis vinculada al evento"
+            ],
+            "preguntas_infinita": [
+              "https://github.com/Jhosman9090/C-digo-inicial-IA/commit/ca8774c3bd5a2acbbfefc2d8725ea97bc323590c"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2026-09-10T07:59:33.275235+00:00",
+      "estado": "STAMPED_AND_CHAINED",
+      "snapshot_hash": "94e8aa51b812297a5b5d52f28455d699cc36bbc14d819b3c99c7073fe3ba8dd8",
+      "esencia": {
+        "archivo_nombre": "Cómo aplicar",
+        "tipo": "DOCUMENTO",
+        "doc_sha256": "5aca60dc25ebbfff406b62d59176a539e397a7f06fe8efe3ac728bcb33c9f380",
+        "ots_sha256": "60cce64ba0a3dd24320eb78cddb8ab17b86fe5590427c1e2b7f34682b90dd2e0",
+        "secuencia_num": 2,
+        "contexto_cpia": {
+          "timestamp": "2026-09-10T07:59:31.824410+00:00",
+          "estado": "LISTO_PARA_SELLADO",
+          "pdf_intent": {
+            "tipo": "registro_contextual",
+            "incluye": [
+              "estructura_de_esencia",
+              "burbujas_verificadas",
+              "burbujas_especulativas",
+              "preguntas",
+              "direccion_logica",
+              "sello_de_autoria"
+            ],
+            "excluye": [
+              "texto_literal",
+              "opiniones_emocionales",
+              "interpretaciones"
+            ]
+          },
+          "etica": {
+            "no_autonomia": true,
+            "no_decision": true,
+            "responsabilidad": "humana"
+          },
+          "conversation_snapshot": {
+            "burbujas_verificadas": [
+              "Fuente registrada: Cómo aplicar",
+              "SHA-256 local verificado: 5aca60dc25ebbfff406b62d59176a539e397a7f06fe8efe3ac728bcb33c9f380"
+            ],
+            "burbujas_especulativas": [
+              "Proyección de análisis vinculada al evento"
+            ],
+            "preguntas_infinita": [
+              "https://github.com/Jhosman9090/-TPPI-/commit/154ae6d5b23518be05206997f7d381e235739d0b"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2026-09-10T08:05:54.992142+00:00",
+      "estado": "STAMPED_AND_CHAINED",
+      "snapshot_hash": "31b673ced7943fdef917e2be2a435683f1026ae3b9c9074a196ab8089a73482a",
+      "esencia": {
+        "archivo_nombre": "Propuestas",
+        "tipo": "DOCUMENTO",
+        "doc_sha256": "104911d01aa7be8bee63565e024c6ba0e47315e33e552ac95d5c715d5bb538b1",
+        "ots_sha256": "08e21b8cde0ad126d23b03f86087fafe07ba5be0c61867a2126bad17c7b081b4",
+        "secuencia_num": 3,
+        "contexto_cpia": {
+          "timestamp": "2026-09-10T08:05:53.279493+00:00",
+          "estado": "LISTO_PARA_SELLADO",
+          "pdf_intent": {
+            "tipo": "registro_contextual",
+            "incluye": [
+              "estructura_de_esencia",
+              "burbujas_verificadas",
+              "burbujas_especulativas",
+              "preguntas",
+              "direccion_logica",
+              "sello_de_autoria"
+            ],
+            "excluye": [
+              "texto_literal",
+              "opiniones_emocionales",
+              "interpretaciones"
+            ]
+          },
+          "etica": {
+            "no_autonomia": true,
+            "no_decision": true,
+            "responsabilidad": "humana"
+          },
+          "conversation_snapshot": {
+            "burbujas_verificadas": [
+              "Fuente registrada: Propuestas",
+              "SHA-256 local verificado: 104911d01aa7be8bee63565e024c6ba0e47315e33e552ac95d5c715d5bb538b1"
+            ],
+            "burbujas_especulativas": [
+              "Proyección de análisis vinculada al evento"
+            ],
+            "preguntas_infinita": [
+              "https://github.com/Jhosman9090/Propuesta-IA-/blob/3141eee429cafbfea623e03a7c1be9744af309d3/Propuestas"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2026-09-10T08:08:32.167891+00:00",
+      "estado": "STAMPED_AND_CHAINED",
+      "snapshot_hash": "8c429c98bc50ff05dbb030a43e3dd354be31b4e13ba78b691b023597ec2b944c",
+      "esencia": {
+        "archivo_nombre": "Teoría que es_",
+        "tipo": "DOCUMENTO",
+        "doc_sha256": "2236a36ee5112a36a89bfc8f261e9435876d1bfe8873334f66ec35e50496e883",
+        "ots_sha256": "87f10d75cb6b6b9c77e7dd581a733c36b2b75b8569633d4eaaea3afd40350cef",
+        "secuencia_num": 4,
+        "contexto_cpia": {
+          "timestamp": "2026-09-10T08:08:30.190644+00:00",
+          "estado": "LISTO_PARA_SELLADO",
+          "pdf_intent": {
+            "tipo": "registro_contextual",
+            "incluye": [
+              "estructura_de_esencia",
+              "burbujas_verificadas",
+              "burbujas_especulativas",
+              "preguntas",
+              "direccion_logica",
+              "sello_de_autoria"
+            ],
+            "excluye": [
+              "texto_literal",
+              "opiniones_emocionales",
+              "interpretaciones"
+            ]
+          },
+          "etica": {
+            "no_autonomia": true,
+            "no_decision": true,
+            "responsabilidad": "humana"
+          },
+          "conversation_snapshot": {
+            "burbujas_verificadas": [
+              "Fuente registrada: Teoría que es_",
+              "SHA-256 local verificado: 2236a36ee5112a36a89bfc8f261e9435876d1bfe8873334f66ec35e50496e883"
+            ],
+            "burbujas_especulativas": [
+              "Proyección de análisis vinculada al evento"
+            ],
+            "preguntas_infinita": [
+              "https://github.com/Jhosman9090/Teor-a-1/commit/12336f242426f1b0ad52ef7b6562d0fabee99981"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2026-09-10T08:11:45.037506+00:00",
+      "estado": "STAMPED_AND_CHAINED",
+      "snapshot_hash": "0eb6e43d87d95f48299082bcb7f2f19c5c3eafa51e26eb18ba0da2acda592696",
+      "esencia": {
+        "archivo_nombre": "Brújula cuantica",
+        "tipo": "DOCUMENTO",
+        "doc_sha256": "75907bcd4111a8c28755f4d4c87e3905ece8db084b9c6fb976d9ad2fdcf25d51",
+        "ots_sha256": "753e2dcc1f875e02c6f43dc5f97f05f331c83ed7aed75b53192659b58ea0ba98",
+        "secuencia_num": 5,
+        "contexto_cpia": {
+          "timestamp": "2026-09-10T08:11:43.414765+00:00",
+          "estado": "LISTO_PARA_SELLADO",
+          "pdf_intent": {
+            "tipo": "registro_contextual",
+            "incluye": [
+              "estructura_de_esencia",
+              "burbujas_verificadas",
+              "burbujas_especulativas",
+              "preguntas",
+              "direccion_logica",
+              "sello_de_autoria"
+            ],
+            "excluye": [
+              "texto_literal",
+              "opiniones_emocionales",
+              "interpretaciones"
+            ]
+          },
+          "etica": {
+            "no_autonomia": true,
+            "no_decision": true,
+            "responsabilidad": "humana"
+          },
+          "conversation_snapshot": {
+            "burbujas_verificadas": [
+              "Fuente registrada: Brújula cuantica",
+              "SHA-256 local verificado: 75907bcd4111a8c28755f4d4c87e3905ece8db084b9c6fb976d9ad2fdcf25d51"
+            ],
+            "burbujas_especulativas": [
+              "Proyección de análisis vinculada al evento"
+            ],
+            "preguntas_infinita": [
+              "ef322759309adf736c8bec62a80ea329a07fede9"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2026-09-10T08:14:49.393609+00:00",
+      "estado": "STAMPED_AND_CHAINED",
+      "snapshot_hash": "75538ce26e044ceb73789e429d5cd931bae00303cabd231e1a83e8dc3672d800",
+      "esencia": {
+        "archivo_nombre": "CPEI 1.4",
+        "tipo": "DOCUMENTO",
+        "doc_sha256": "8a46beae1dce312cf50b9c3302432944e01bda2093a3948a3e1a7b5ce5bf1be4",
+        "ots_sha256": "62ef14f344a46b28a431b5433003434209bb753dd20fcaa0e29fda19d956e5c9",
+        "secuencia_num": 6,
+        "contexto_cpia": {
+          "timestamp": "2026-09-10T08:14:47.712895+00:00",
+          "estado": "LISTO_PARA_SELLADO",
+          "pdf_intent": {
+            "tipo": "registro_contextual",
+            "incluye": [
+              "estructura_de_esencia",
+              "burbujas_verificadas",
+              "burbujas_especulativas",
+              "preguntas",
+              "direccion_logica",
+              "sello_de_autoria"
+            ],
+            "excluye": [
+              "texto_literal",
+              "opiniones_emocionales",
+              "interpretaciones"
+            ]
+          },
+          "etica": {
+            "no_autonomia": true,
+            "no_decision": true,
+            "responsabilidad": "humana"
+          },
+          "conversation_snapshot": {
+            "burbujas_verificadas": [
+              "Fuente registrada: CPEI 1.4",
+              "SHA-256 local verificado: 8a46beae1dce312cf50b9c3302432944e01bda2093a3948a3e1a7b5ce5bf1be4"
+            ],
+            "burbujas_especulativas": [
+              "Proyección de análisis vinculada al evento"
+            ],
+            "preguntas_infinita": [
+              "https://github.com/Jhosman9090/Teor-a-1/commit/31daf25b280fd9d25f7da2d275c778db41480878"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2026-09-10T08:17:48.223743+00:00",
+      "estado": "STAMPED_AND_CHAINED",
+      "snapshot_hash": "f92ba1837cb4c1dae966e94b9b044ead217335c1f34aa1147ae0c19156c5df7d",
+      "esencia": {
+        "archivo_nombre": "Código Híbrido",
+        "tipo": "DOCUMENTO",
+        "doc_sha256": "65ac7467cfce65dfd21b72bb65ba39f25e6020e4a9445aef95d657f8405d5457",
+        "ots_sha256": "8b9b6ee511f3a33e432734734f67dadfdef47369292f5df4cb22b39803679aa1",
+        "secuencia_num": 7,
+        "contexto_cpia": {
+          "timestamp": "2026-09-10T08:17:46.787712+00:00",
+          "estado": "LISTO_PARA_SELLADO",
+          "pdf_intent": {
+            "tipo": "registro_contextual",
+            "incluye": [
+              "estructura_de_esencia",
+              "burbujas_verificadas",
+              "burbujas_especulativas",
+              "preguntas",
+              "direccion_logica",
+              "sello_de_autoria"
+            ],
+            "excluye": [
+              "texto_literal",
+              "opiniones_emocionales",
+              "interpretaciones"
+            ]
+          },
+          "etica": {
+            "no_autonomia": true,
+            "no_decision": true,
+            "responsabilidad": "humana"
+          },
+          "conversation_snapshot": {
+            "burbujas_verificadas": [
+              "Fuente registrada: Código Híbrido",
+              "SHA-256 local verificado: 65ac7467cfce65dfd21b72bb65ba39f25e6020e4a9445aef95d657f8405d5457"
+            ],
+            "burbujas_especulativas": [
+              "Proyección de análisis vinculada al evento"
+            ],
+            "preguntas_infinita": [
+              "https://github.com/Jhosman9090/Teor-a-1/commit/fb06718a1253a8709946c8ee68f320da713f8677"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2026-09-10T08:20:18.608973+00:00",
+      "estado": "STAMPED_AND_CHAINED",
+      "snapshot_hash": "349e421a608f15310f09c4f335c71839e799b7bfddd199f0d2b21bd861c57da2",
+      "esencia": {
+        "archivo_nombre": "Original tpp",
+        "tipo": "DOCUMENTO",
+        "doc_sha256": "58211f95cb000ae7f891b3036fd9ad2f4fe67353c5255082f1aa7fa6becaadf2",
+        "ots_sha256": "8c9e5577c202d5a8532dbd8884960230be4c2d633188468c23d90d3d78c035ad",
+        "secuencia_num": 8,
+        "contexto_cpia": {
+          "timestamp": "2026-09-10T08:20:16.961369+00:00",
+          "estado": "LISTO_PARA_SELLADO",
+          "pdf_intent": {
+            "tipo": "registro_contextual",
+            "incluye": [
+              "estructura_de_esencia",
+              "burbujas_verificadas",
+              "burbujas_especulativas",
+              "preguntas",
+              "direccion_logica",
+              "sello_de_autoria"
+            ],
+            "excluye": [
+              "texto_literal",
+              "opiniones_emocionales",
+              "interpretaciones"
+            ]
+          },
+          "etica": {
+            "no_autonomia": true,
+            "no_decision": true,
+            "responsabilidad": "humana"
+          },
+          "conversation_snapshot": {
+            "burbujas_verificadas": [
+              "Fuente registrada: Original tpp",
+              "SHA-256 local verificado: 58211f95cb000ae7f891b3036fd9ad2f4fe67353c5255082f1aa7fa6becaadf2"
+            ],
+            "burbujas_especulativas": [
+              "Proyección de análisis vinculada al evento"
+            ],
+            "preguntas_infinita": [
+              "https://github.com/Jhosman9090/Teor-a-1/commit/d4607f34f74d16dc88f6601c8e3e6e76979d1d9c"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2026-09-10T08:21:57.114168+00:00",
+      "estado": "STAMPED_AND_CHAINED",
+      "snapshot_hash": "5701005bbd54fd4fed421975176314b84f5c638ec6518d53b021ea41330c1c00",
+      "esencia": {
+        "archivo_nombre": "TB",
+        "tipo": "DOCUMENTO",
+        "doc_sha256": "a1e9577b6043029eb1359164cf06cdddb6112e591f4a1f5064a6ea3b35e5a453",
+        "ots_sha256": "f407efb6725adb7ca242cfc977545d7f299e2494d7e0488d4b74f22fcffdf116",
+        "secuencia_num": 9,
+        "contexto_cpia": {
+          "timestamp": "2026-09-10T08:21:54.694951+00:00",
+          "estado": "LISTO_PARA_SELLADO",
+          "pdf_intent": {
+            "tipo": "registro_contextual",
+            "incluye": [
+              "estructura_de_esencia",
+              "burbujas_verificadas",
+              "burbujas_especulativas",
+              "preguntas",
+              "direccion_logica",
+              "sello_de_autoria"
+            ],
+            "excluye": [
+              "texto_literal",
+              "opiniones_emocionales",
+              "interpretaciones"
+            ]
+          },
+          "etica": {
+            "no_autonomia": true,
+            "no_decision": true,
+            "responsabilidad": "humana"
+          },
+          "conversation_snapshot": {
+            "burbujas_verificadas": [
+              "Fuente registrada: TB",
+              "SHA-256 local verificado: a1e9577b6043029eb1359164cf06cdddb6112e591f4a1f5064a6ea3b35e5a453"
+            ],
+            "burbujas_especulativas": [
+              "Proyección de análisis vinculada al evento"
+            ],
+            "preguntas_infinita": [
+              "https://github.com/Jhosman9090/Teor-a-1/commit/bbaae466660709b9bf9b6d4941651513f8121b90"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2026-09-10T08:23:02.993174+00:00",
+      "estado": "STAMPED_AND_CHAINED",
+      "snapshot_hash": "88ab6f39be73b3ff390e62b83f8cc801b238dbf3c5145c072d75455194a25fb8",
+      "esencia": {
+        "archivo_nombre": "TBC paralelismo",
+        "tipo": "DOCUMENTO",
+        "doc_sha256": "39a6b4df5698161b2b2f178a8f9f61ead972e3f9018df0e5f06894f10b5a3729",
+        "ots_sha256": "c37fa81014584393e0075006cf1d3a4dc44e4ca11d7b8937d0f7d7a347bf58e5",
+        "secuencia_num": 10,
+        "contexto_cpia": {
+          "timestamp": "2026-09-10T08:23:01.326277+00:00",
+          "estado": "LISTO_PARA_SELLADO",
+          "pdf_intent": {
+            "tipo": "registro_contextual",
+            "incluye": [
+              "estructura_de_esencia",
+              "burbujas_verificadas",
+              "burbujas_especulativas",
+              "preguntas",
+              "direccion_logica",
+              "sello_de_autoria"
+            ],
+            "excluye": [
+              "texto_literal",
+              "opiniones_emocionales",
+              "interpretaciones"
+            ]
+          },
+          "etica": {
+            "no_autonomia": true,
+            "no_decision": true,
+            "responsabilidad": "humana"
+          },
+          "conversation_snapshot": {
+            "burbujas_verificadas": [
+              "Fuente registrada: TBC paralelismo",
+              "SHA-256 local verificado: 39a6b4df5698161b2b2f178a8f9f61ead972e3f9018df0e5f06894f10b5a3729"
+            ],
+            "burbujas_especulativas": [
+              "Proyección de análisis vinculada al evento"
+            ],
+            "preguntas_infinita": [
+              "https://github.com/Jhosman9090/Teor-a-1/commit/fc4f4b9b7038954e816aa41d70029434eba65be3"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2026-09-10T08:24:48.330278+00:00",
+      "estado": "STAMPED_AND_CHAINED",
+      "snapshot_hash": "ae1174acad79a4ac2ded2f288ae5282693a24e07d2ef76592f9c82fdb76dbaae",
+      "esencia": {
+        "archivo_nombre": "TPP",
+        "tipo": "DOCUMENTO",
+        "doc_sha256": "17f7adab6f94429fef6094f9b298af59c88a12714cbf4653b4511634f1085045",
+        "ots_sha256": "195a1c9efa4d7c4d69ac92ea88679504ed56444ccba6482090d4dde07e3b26c9",
+        "secuencia_num": 11,
+        "contexto_cpia": {
+          "timestamp": "2026-09-10T08:24:46.836715+00:00",
+          "estado": "LISTO_PARA_SELLADO",
+          "pdf_intent": {
+            "tipo": "registro_contextual",
+            "incluye": [
+              "estructura_de_esencia",
+              "burbujas_verificadas",
+              "burbujas_especulativas",
+              "preguntas",
+              "direccion_logica",
+              "sello_de_autoria"
+            ],
+            "excluye": [
+              "texto_literal",
+              "opiniones_emocionales",
+              "interpretaciones"
+            ]
+          },
+          "etica": {
+            "no_autonomia": true,
+            "no_decision": true,
+            "responsabilidad": "humana"
+          },
+          "conversation_snapshot": {
+            "burbujas_verificadas": [
+              "Fuente registrada: TPP",
+              "SHA-256 local verificado: 17f7adab6f94429fef6094f9b298af59c88a12714cbf4653b4511634f1085045"
+            ],
+            "burbujas_especulativas": [
+              "Proyección de análisis vinculada al evento"
+            ],
+            "preguntas_infinita": [
+              "https://github.com/Jhosman9090/Teor-a-1/commit/bb73e17062ef5e3a085f501941fcd25dc37bcdae"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2026-09-10T08:26:10.357524+00:00",
+      "estado": "STAMPED_AND_CHAINED",
+      "snapshot_hash": "992baf995f1df622f4bc3f90e832cec5f3bed8cb72559a562870b76c1ad62cf1",
+      "esencia": {
+        "archivo_nombre": "TT",
+        "tipo": "DOCUMENTO",
+        "doc_sha256": "80f312529873aee7bc6c11b5a5386607d1033d4a68b3d3d1bcc2a7b9ebacde3b",
+        "ots_sha256": "5b20e47455446f2a7c038510e01f262f6be3206125373b0f346bd8dd8bd7d80e",
+        "secuencia_num": 12,
+        "contexto_cpia": {
+          "timestamp": "2026-09-10T08:26:08.587400+00:00",
+          "estado": "LISTO_PARA_SELLADO",
+          "pdf_intent": {
+            "tipo": "registro_contextual",
+            "incluye": [
+              "estructura_de_esencia",
+              "burbujas_verificadas",
+              "burbujas_especulativas",
+              "preguntas",
+              "direccion_logica",
+              "sello_de_autoria"
+            ],
+            "excluye": [
+              "texto_literal",
+              "opiniones_emocionales",
+              "interpretaciones"
+            ]
+          },
+          "etica": {
+            "no_autonomia": true,
+            "no_decision": true,
+            "responsabilidad": "humana"
+          },
+          "conversation_snapshot": {
+            "burbujas_verificadas": [
+              "Fuente registrada: TT",
+              "SHA-256 local verificado: 80f312529873aee7bc6c11b5a5386607d1033d4a68b3d3d1bcc2a7b9ebacde3b"
+            ],
+            "burbujas_especulativas": [
+              "Proyección de análisis vinculada al evento"
+            ],
+            "preguntas_infinita": [
+              "https://github.com/Jhosman9090/Teor-a-1/commit/b1d4b8648da48b0e308ecbcf3b447b9b438e659d"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2026-09-10T08:29:40.469575+00:00",
+      "estado": "STAMPED_AND_CHAINED",
+      "snapshot_hash": "a125c8e9a9795baa4679ff2e419ea6ba2cf35b84fa9e4c1172a64fcdd7ea98c3",
+      "esencia": {
+        "archivo_nombre": "Teoría de la pregunta codigo",
+        "tipo": "DOCUMENTO",
+        "doc_sha256": "00857da5203f4bd97dc53e05482c199e3e9d33f2afc8308d79cdb8633ec105ab",
+        "ots_sha256": "95085ddc3da96588787a0cfb55ace0fc775a622a5a88d1cf0e591d795f687ccd",
+        "secuencia_num": 13,
+        "contexto_cpia": {
+          "timestamp": "2026-09-10T08:29:38.344622+00:00",
+          "estado": "LISTO_PARA_SELLADO",
+          "pdf_intent": {
+            "tipo": "registro_contextual",
+            "incluye": [
+              "estructura_de_esencia",
+              "burbujas_verificadas",
+              "burbujas_especulativas",
+              "preguntas",
+              "direccion_logica",
+              "sello_de_autoria"
+            ],
+            "excluye": [
+              "texto_literal",
+              "opiniones_emocionales",
+              "interpretaciones"
+            ]
+          },
+          "etica": {
+            "no_autonomia": true,
+            "no_decision": true,
+            "responsabilidad": "humana"
+          },
+          "conversation_snapshot": {
+            "burbujas_verificadas": [
+              "Fuente registrada: Teoría de la pregunta codigo",
+              "SHA-256 local verificado: 00857da5203f4bd97dc53e05482c199e3e9d33f2afc8308d79cdb8633ec105ab"
+            ],
+            "burbujas_especulativas": [
+              "Proyección de análisis vinculada al evento"
+            ],
+            "preguntas_infinita": [
+              "https://github.com/Jhosman9090/Teor-a-1/commit/536ad4ed51c77b83c555f725cbf8ce19737d5918"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2026-09-10T08:31:05.423489+00:00",
+      "estado": "STAMPED_AND_CHAINED",
+      "snapshot_hash": "0746386033ca32114858ea4c2f185abacb8b6d0f7c7ba3c65ceb71901b3a370d",
+      "esencia": {
+        "archivo_nombre": "Tpp",
+        "tipo": "DOCUMENTO",
+        "doc_sha256": "58211f95cb000ae7f891b3036fd9ad2f4fe67353c5255082f1aa7fa6becaadf2",
+        "ots_sha256": "68e6402b9ad300f2226181974abac84a0b5adb054b1d5811003561c0f0bfbb78",
+        "secuencia_num": 14,
+        "contexto_cpia": {
+          "timestamp": "2026-09-10T08:31:03.735481+00:00",
+          "estado": "LISTO_PARA_SELLADO",
+          "pdf_intent": {
+            "tipo": "registro_contextual",
+            "incluye": [
+              "estructura_de_esencia",
+              "burbujas_verificadas",
+              "burbujas_especulativas",
+              "preguntas",
+              "direccion_logica",
+              "sello_de_autoria"
+            ],
+            "excluye": [
+              "texto_literal",
+              "opiniones_emocionales",
+              "interpretaciones"
+            ]
+          },
+          "etica": {
+            "no_autonomia": true,
+            "no_decision": true,
+            "responsabilidad": "humana"
+          },
+          "conversation_snapshot": {
+            "burbujas_verificadas": [
+              "Fuente registrada: Tpp",
+              "SHA-256 local verificado: 58211f95cb000ae7f891b3036fd9ad2f4fe67353c5255082f1aa7fa6becaadf2"
+            ],
+            "burbujas_especulativas": [
+              "Proyección de análisis vinculada al evento"
+            ],
+            "preguntas_infinita": [
+              "https://github.com/Jhosman9090/Teor-a-1/commit/a48ab248d0ea863a94a02c04e929675244d7efb2"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2026-09-10T08:35:57.150225+00:00",
+      "estado": "STAMPED_AND_CHAINED",
+      "snapshot_hash": "9285b59e216987f6b989f8ec90e67301644008bd827fbe89b1aad34355ade05a",
+      "esencia": {
+        "archivo_nombre": "Código IA",
+        "tipo": "DOCUMENTO",
+        "doc_sha256": "58211f95cb000ae7f891b3036fd9ad2f4fe67353c5255082f1aa7fa6becaadf2",
+        "ots_sha256": "367b415674058bdc0de2343023f625046b74f0126e3249bb063e3c335a043c05",
+        "secuencia_num": 15,
+        "contexto_cpia": {
+          "timestamp": "2026-09-10T08:35:55.180119+00:00",
+          "estado": "LISTO_PARA_SELLADO",
+          "pdf_intent": {
+            "tipo": "registro_contextual",
+            "incluye": [
+              "estructura_de_esencia",
+              "burbujas_verificadas",
+              "burbujas_especulativas",
+              "preguntas",
+              "direccion_logica",
+              "sello_de_autoria"
+            ],
+            "excluye": [
+              "texto_literal",
+              "opiniones_emocionales",
+              "interpretaciones"
+            ]
+          },
+          "etica": {
+            "no_autonomia": true,
+            "no_decision": true,
+            "responsabilidad": "humana"
+          },
+          "conversation_snapshot": {
+            "burbujas_verificadas": [
+              "Fuente registrada: Código IA",
+              "SHA-256 local verificado: 58211f95cb000ae7f891b3036fd9ad2f4fe67353c5255082f1aa7fa6becaadf2"
+            ],
+            "burbujas_especulativas": [
+              "Proyección de análisis vinculada al evento"
+            ],
+            "preguntas_infinita": [
+              "https://github.com/Jhosman9090/C-digo-inicial-IA/commit/ca8774c3bd5a2acbbfefc2d8725ea97bc323590c"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2026-09-10T08:41:05.015713+00:00",
+      "estado": "STAMPED_AND_CHAINED",
+      "snapshot_hash": "fef450fd63108b0d334ea43ce01b9819ef2f449a03388087aa062d0e37f40866",
+      "esencia": {
+        "archivo_nombre": "Código Johnson 1oct25",
+        "tipo": "DOCUMENTO",
+        "doc_sha256": "ae1284ed79e225563a6027d9f76d6c774a6d5f9539c270d5def4f84598320966",
+        "ots_sha256": "fd02b91f9c3874323cc791c3120e838b624d4564b12da30094e6e5dd161f78d8",
+        "secuencia_num": 16,
+        "contexto_cpia": {
+          "timestamp": "2026-09-10T08:41:03.400710+00:00",
+          "estado": "LISTO_PARA_SELLADO",
+          "pdf_intent": {
+            "tipo": "registro_contextual",
+            "incluye": [
+              "estructura_de_esencia",
+              "burbujas_verificadas",
+              "burbujas_especulativas",
+              "preguntas",
+              "direccion_logica",
+              "sello_de_autoria"
+            ],
+            "excluye": [
+              "texto_literal",
+              "opiniones_emocionales",
+              "interpretaciones"
+            ]
+          },
+          "etica": {
+            "no_autonomia": true,
+            "no_decision": true,
+            "responsabilidad": "humana"
+          },
+          "conversation_snapshot": {
+            "burbujas_verificadas": [
+              "Fuente registrada: Código Johnson 1oct25",
+              "SHA-256 local verificado: ae1284ed79e225563a6027d9f76d6c774a6d5f9539c270d5def4f84598320966"
+            ],
+            "burbujas_especulativas": [
+              "Proyección de análisis vinculada al evento"
+            ],
+            "preguntas_infinita": [
+              "https://github.com/Jhosman9090/-TPPI-TB-TT-CODIGO-JOHNSON-/blob/d84d53b24a5f0dedbb199f31a829ce1565ba618a/C%C3%B3digo%20Johnson%201oct25"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2026-09-10T08:45:06.683039+00:00",
+      "estado": "STAMPED_AND_CHAINED",
+      "snapshot_hash": "c6002fd87c2958d4fd9a7d1e8ec71d44c8ecd7c58ce8a3e857ea878a81bd0646",
+      "esencia": {
+        "archivo_nombre": "TB",
+        "tipo": "DOCUMENTO",
+        "doc_sha256": "4e1aea11e4eefaac696d8f110c9f39d7850da8c9a1f78dd32169ae71da4de2cf",
+        "ots_sha256": "1f167e00ecad879eea32a07c7adac37cae130aec0b51d1522fe0e8060fb87bb7",
+        "secuencia_num": 17,
+        "contexto_cpia": {
+          "timestamp": "2026-09-10T08:45:04.846381+00:00",
+          "estado": "LISTO_PARA_SELLADO",
+          "pdf_intent": {
+            "tipo": "registro_contextual",
+            "incluye": [
+              "estructura_de_esencia",
+              "burbujas_verificadas",
+              "burbujas_especulativas",
+              "preguntas",
+              "direccion_logica",
+              "sello_de_autoria"
+            ],
+            "excluye": [
+              "texto_literal",
+              "opiniones_emocionales",
+              "interpretaciones"
+            ]
+          },
+          "etica": {
+            "no_autonomia": true,
+            "no_decision": true,
+            "responsabilidad": "humana"
+          },
+          "conversation_snapshot": {
+            "burbujas_verificadas": [
+              "Fuente registrada: TB",
+              "SHA-256 local verificado: 4e1aea11e4eefaac696d8f110c9f39d7850da8c9a1f78dd32169ae71da4de2cf"
+            ],
+            "burbujas_especulativas": [],
+            "preguntas_infinita": []
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2026-09-10T08:46:27.874065+00:00",
+      "estado": "STAMPED_AND_CHAINED",
+      "snapshot_hash": "c29e78014d3437309a2f1356382dbd77958bb1025671a084bab5cf500e7d0449",
+      "esencia": {
+        "archivo_nombre": "index.html",
+        "tipo": "DOCUMENTO",
+        "doc_sha256": "826a5d6664b2aed145e9ccf3600a78d9a6737ed189c4b2294973cabaf9333c4a",
+        "ots_sha256": "5b4a4e8218e33e2ae3c4756c76e7f82cd6700865175357b645c0c7cbecea462f",
+        "secuencia_num": 18,
+        "contexto_cpia": {
+          "timestamp": "2026-09-10T08:46:26.524931+00:00",
+          "estado": "LISTO_PARA_SELLADO",
+          "pdf_intent": {
+            "tipo": "registro_contextual",
+            "incluye": [
+              "estructura_de_esencia",
+              "burbujas_verificadas",
+              "burbujas_especulativas",
+              "preguntas",
+              "direccion_logica",
+              "sello_de_autoria"
+            ],
+            "excluye": [
+              "texto_literal",
+              "opiniones_emocionales",
+              "interpretaciones"
+            ]
+          },
+          "etica": {
+            "no_autonomia": true,
+            "no_decision": true,
+            "responsabilidad": "humana"
+          },
+          "conversation_snapshot": {
+            "burbujas_verificadas": [
+              "Fuente registrada: index.html",
+              "SHA-256 local verificado: 826a5d6664b2aed145e9ccf3600a78d9a6737ed189c4b2294973cabaf9333c4a"
+            ],
+            "burbujas_especulativas": [
+              "Proyección de análisis vinculada al evento"
+            ],
+            "preguntas_infinita": [
+              "e52014da041f7fbbbbad4a1979098bcb1680a8ab"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2026-09-10T08:47:18.978267+00:00",
+      "estado": "STAMPED_AND_CHAINED",
+      "snapshot_hash": "c5b057c29c5733fbe356b2a68365720aa85f13128f0ebbd7ec46bef028c1ef9e",
+      "esencia": {
+        "archivo_nombre": "Texto_Plano_Entrada_19",
+        "tipo": "TEXTO_PLANO",
+        "doc_sha256": "a65d7c5cb9aaf5fe65514a404b1fdbd7951c13f5e032b166870eebd872b4b74c",
+        "ots_sha256": "49852a62c38ccb800a36330e8599893d0941c157926fa4ee71863d7040671da5",
+        "secuencia_num": 19,
+        "contexto_cpia": {
+          "timestamp": "2026-09-10T08:47:17.764204+00:00",
+          "estado": "LISTO_PARA_SELLADO",
+          "pdf_intent": {
+            "tipo": "registro_contextual",
+            "incluye": [
+              "estructura_de_esencia",
+              "burbujas_verificadas",
+              "burbujas_especulativas",
+              "preguntas",
+              "direccion_logica",
+              "sello_de_autoria"
+            ],
+            "excluye": [
+              "texto_literal",
+              "opiniones_emocionales",
+              "interpretaciones"
+            ]
+          },
+          "etica": {
+            "no_autonomia": true,
+            "no_decision": true,
+            "responsabilidad": "humana"
+          },
+          "conversation_snapshot": {
+            "burbujas_verificadas": [
+              "Fuente registrada: Texto_Plano_Entrada_19",
+              "SHA-256 local verificado: a65d7c5cb9aaf5fe65514a404b1fdbd7951c13f5e032b166870eebd872b4b74c"
+            ],
+            "burbujas_especulativas": [],
+            "preguntas_infinita": []
+          }
+        },
+        "preview_texto": "Teoría de la Teoría de la Paradoja de la Pregunta (TPP) – Ma..."
+      }
+    },
+    {
+      "timestamp": "2026-09-10T08:48:51.026152+00:00",
+      "estado": "STAMPED_AND_CHAINED",
+      "snapshot_hash": "8689574e6d1dfe0352012527d71df50916f62d6bca4446678500d7f2c9125d3a",
+      "esencia": {
+        "archivo_nombre": "Enlaces",
+        "tipo": "DOCUMENTO",
+        "doc_sha256": "9d981eb6e6b704221a426a7eb3b54302b9dc18fc43e46ee5992cb1fbab380a55",
+        "ots_sha256": "19e95752f4b04f4f12c231ca1854be06897c7da3b34466d3013e36e7fd98899a",
+        "secuencia_num": 20,
+        "contexto_cpia": {
+          "timestamp": "2026-09-10T08:48:48.908073+00:00",
+          "estado": "LISTO_PARA_SELLADO",
+          "pdf_intent": {
+            "tipo": "registro_contextual",
+            "incluye": [
+              "estructura_de_esencia",
+              "burbujas_verificadas",
+              "burbujas_especulativas",
+              "preguntas",
+              "direccion_logica",
+              "sello_de_autoria"
+            ],
+            "excluye": [
+              "texto_literal",
+              "opiniones_emocionales",
+              "interpretaciones"
+            ]
+          },
+          "etica": {
+            "no_autonomia": true,
+            "no_decision": true,
+            "responsabilidad": "humana"
+          },
+          "conversation_snapshot": {
+            "burbujas_verificadas": [
+              "Fuente registrada: Enlaces",
+              "SHA-256 local verificado: 9d981eb6e6b704221a426a7eb3b54302b9dc18fc43e46ee5992cb1fbab380a55"
+            ],
+            "burbujas_especulativas": [
+              "Proyección de análisis vinculada al evento"
+            ],
+            "preguntas_infinita": [
+              "https://github.com/Jhosman9090/Enlaces-de-pruebas-/commit/fbdaf2ea81a7298eefc73c941bf5437c57e4ce2a"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2026-09-10T08:49:36.740789+00:00",
+      "estado": "STAMPED_AND_CHAINED",
+      "snapshot_hash": "da0295dc458a31a27c21de95f59c6b83d643f33a3910c9f24a274cd97f5d8c75",
+      "esencia": {
+        "archivo_nombre": "Más evidencia",
+        "tipo": "DOCUMENTO",
+        "doc_sha256": "bd5a4046d4596d7604c65c34bcdb956bb2b50e9f8c147b7d727055f8647a7376",
+        "ots_sha256": "2fb3e3eee42de5750b3f6f7f4bc5ac11b28938f904df1d1eab4aceb8e0b4bd6a",
+        "secuencia_num": 21,
+        "contexto_cpia": {
+          "timestamp": "2026-09-10T08:49:35.088219+00:00",
+          "estado": "LISTO_PARA_SELLADO",
+          "pdf_intent": {
+            "tipo": "registro_contextual",
+            "incluye": [
+              "estructura_de_esencia",
+              "burbujas_verificadas",
+              "burbujas_especulativas",
+              "preguntas",
+              "direccion_logica",
+              "sello_de_autoria"
+            ],
+            "excluye": [
+              "texto_literal",
+              "opiniones_emocionales",
+              "interpretaciones"
+            ]
+          },
+          "etica": {
+            "no_autonomia": true,
+            "no_decision": true,
+            "responsabilidad": "humana"
+          },
+          "conversation_snapshot": {
+            "burbujas_verificadas": [
+              "Fuente registrada: Más evidencia",
+              "SHA-256 local verificado: bd5a4046d4596d7604c65c34bcdb956bb2b50e9f8c147b7d727055f8647a7376"
+            ],
+            "burbujas_especulativas": [
+              "Proyección de análisis vinculada al evento"
+            ],
+            "preguntas_infinita": [
+              "https://github.com/Jhosman9090/Enlaces-de-pruebas-/commit/9fd58bb0111f9c76ff8f2f04b59617a5a2b27c90"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2026-09-10T08:52:19.668726+00:00",
+      "estado": "STAMPED_AND_CHAINED",
+      "snapshot_hash": "69d40d04082ef1fec5b08a059e2fe9fa46a280bef4eeb72b21d6ab5f0281d302",
+      "esencia": {
+        "archivo_nombre": "Estado_Basal",
+        "tipo": "DOCUMENTO",
+        "doc_sha256": "a337934b22cf9e9a2ee19fdb3a65164ae007a897597d222b66f83f050b52e8f8",
+        "ots_sha256": "03ad2314676bba7bff395f8afc6b01e052342397e031025510d9063058dd7409",
+        "secuencia_num": 22,
+        "contexto_cpia": {
+          "timestamp": "2026-09-10T08:52:17.686336+00:00",
+          "estado": "LISTO_PARA_SELLADO",
+          "pdf_intent": {
+            "tipo": "registro_contextual",
+            "incluye": [
+              "estructura_de_esencia",
+              "burbujas_verificadas",
+              "burbujas_especulativas",
+              "preguntas",
+              "direccion_logica",
+              "sello_de_autoria"
+            ],
+            "excluye": [
+              "texto_literal",
+              "opiniones_emocionales",
+              "interpretaciones"
+            ]
+          },
+          "etica": {
+            "no_autonomia": true,
+            "no_decision": true,
+            "responsabilidad": "humana"
+          },
+          "conversation_snapshot": {
+            "burbujas_verificadas": [
+              "Fuente registrada: Estado_Basal",
+              "SHA-256 local verificado: a337934b22cf9e9a2ee19fdb3a65164ae007a897597d222b66f83f050b52e8f8"
+            ],
+            "burbujas_especulativas": [
+              "Proyección de análisis vinculada al evento"
+            ],
+            "preguntas_infinita": [
+              "https://github.com/Jhosman9090/Estado-basal/commit/fc43cf85734e40013157727555f6cb30449f88aa"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2026-09-10T08:54:36.501971+00:00",
+      "estado": "STAMPED_AND_CHAINED",
+      "snapshot_hash": "847a525abe660ef2f3d3e2834e7196eba3a26066a523cd0dd4e27eb588e2e70b",
+      "esencia": {
+        "archivo_nombre": "La Contabilidad Lógica de las 4 Preguntas",
+        "tipo": "DOCUMENTO",
+        "doc_sha256": "e8ec8b385c4bfc851a7c1a7c40f1c064220e953832d4f6e9657e088fe2823d3d",
+        "ots_sha256": "6a38aa557b00fed4396703f6d2eca2a0c008b2c65bad02dcb8a69d5dec842741",
+        "secuencia_num": 23,
+        "contexto_cpia": {
+          "timestamp": "2026-09-10T08:54:34.614315+00:00",
+          "estado": "LISTO_PARA_SELLADO",
+          "pdf_intent": {
+            "tipo": "registro_contextual",
+            "incluye": [
+              "estructura_de_esencia",
+              "burbujas_verificadas",
+              "burbujas_especulativas",
+              "preguntas",
+              "direccion_logica",
+              "sello_de_autoria"
+            ],
+            "excluye": [
+              "texto_literal",
+              "opiniones_emocionales",
+              "interpretaciones"
+            ]
+          },
+          "etica": {
+            "no_autonomia": true,
+            "no_decision": true,
+            "responsabilidad": "humana"
+          },
+          "conversation_snapshot": {
+            "burbujas_verificadas": [
+              "Fuente registrada: La Contabilidad Lógica de las 4 Preguntas",
+              "SHA-256 local verificado: e8ec8b385c4bfc851a7c1a7c40f1c064220e953832d4f6e9657e088fe2823d3d"
+            ],
+            "burbujas_especulativas": [],
+            "preguntas_infinita": []
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2026-09-10T08:54:57.530464+00:00",
+      "estado": "STAMPED_AND_CHAINED",
+      "snapshot_hash": "564f378cd5fd48f1e3623b9f1843d8259210afb743b8bcd5c701ff773f8b02c6",
+      "esencia": {
+        "archivo_nombre": "introduccion_del_esstado_basal",
+        "tipo": "DOCUMENTO",
+        "doc_sha256": "9d3ec8fe07658c577d460ce5f54abf2d274ca0b2a9d3194543d810faab41bf4a",
+        "ots_sha256": "f45dfebdbce4cdbda4ae3acd6693d5c14e96b9a529b14da9bdc344a2c3566575",
+        "secuencia_num": 24,
+        "contexto_cpia": {
+          "timestamp": "2026-09-10T08:54:55.905179+00:00",
+          "estado": "LISTO_PARA_SELLADO",
+          "pdf_intent": {
+            "tipo": "registro_contextual",
+            "incluye": [
+              "estructura_de_esencia",
+              "burbujas_verificadas",
+              "burbujas_especulativas",
+              "preguntas",
+              "direccion_logica",
+              "sello_de_autoria"
+            ],
+            "excluye": [
+              "texto_literal",
+              "opiniones_emocionales",
+              "interpretaciones"
+            ]
+          },
+          "etica": {
+            "no_autonomia": true,
+            "no_decision": true,
+            "responsabilidad": "humana"
+          },
+          "conversation_snapshot": {
+            "burbujas_verificadas": [
+              "Fuente registrada: introduccion_del_esstado_basal",
+              "SHA-256 local verificado: 9d3ec8fe07658c577d460ce5f54abf2d274ca0b2a9d3194543d810faab41bf4a"
+            ],
+            "burbujas_especulativas": [],
+            "preguntas_infinita": []
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2026-09-10T08:56:52.934196+00:00",
+      "estado": "STAMPED_AND_CHAINED",
+      "snapshot_hash": "e3050fcd49108a1ea8cbdee761c0dc3726af36b3398ff6db1a8a0b5769db1397",
+      "esencia": {
+        "archivo_nombre": "Jhosman Carlos Martínez Morales Σ-CPIA-Origin-2025.pdf",
+        "tipo": "DOCUMENTO",
+        "doc_sha256": "3cf90930870339ec84d3bf5922cb35eb4677db11ab924435006ad631a9451a9d",
+        "ots_sha256": "1249036706415a42f0e526aa05448c08b7090c12f6a328d16b3946e67fe31b93",
+        "secuencia_num": 25,
+        "contexto_cpia": {
+          "timestamp": "2026-09-10T08:56:51.278600+00:00",
+          "estado": "LISTO_PARA_SELLADO",
+          "pdf_intent": {
+            "tipo": "registro_contextual",
+            "incluye": [
+              "estructura_de_esencia",
+              "burbujas_verificadas",
+              "burbujas_especulativas",
+              "preguntas",
+              "direccion_logica",
+              "sello_de_autoria"
+            ],
+            "excluye": [
+              "texto_literal",
+              "opiniones_emocionales",
+              "interpretaciones"
+            ]
+          },
+          "etica": {
+            "no_autonomia": true,
+            "no_decision": true,
+            "responsabilidad": "humana"
+          },
+          "conversation_snapshot": {
+            "burbujas_verificadas": [
+              "Fuente registrada: Jhosman Carlos Martínez Morales Σ-CPIA-Origin-2025.pdf",
+              "SHA-256 local verificado: 3cf90930870339ec84d3bf5922cb35eb4677db11ab924435006ad631a9451a9d"
+            ],
+            "burbujas_especulativas": [],
+            "preguntas_infinita": []
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2026-09-10T08:57:49.646067+00:00",
+      "estado": "STAMPED_AND_CHAINED",
+      "snapshot_hash": "d055a8bc93ece1867a4a435961cbb897e52b59dcdd4181eec99bdbb923ab0bfb",
+      "esencia": {
+        "archivo_nombre": "TeoradeBurbujasTB.pdf",
+        "tipo": "DOCUMENTO",
+        "doc_sha256": "49b321d36fab352ffddf47f664c6d7f8948624c406f3be14e06e6dff1ab3b8da",
+        "ots_sha256": "f7bba11b4520688a23a95df0cbf138b5331bb4e036911b9a4b072ed427a4161d",
+        "secuencia_num": 26,
+        "contexto_cpia": {
+          "timestamp": "2026-09-10T08:57:47.931184+00:00",
+          "estado": "LISTO_PARA_SELLADO",
+          "pdf_intent": {
+            "tipo": "registro_contextual",
+            "incluye": [
+              "estructura_de_esencia",
+              "burbujas_verificadas",
+              "burbujas_especulativas",
+              "preguntas",
+              "direccion_logica",
+              "sello_de_autoria"
+            ],
+            "excluye": [
+              "texto_literal",
+              "opiniones_emocionales",
+              "interpretaciones"
+            ]
+          },
+          "etica": {
+            "no_autonomia": true,
+            "no_decision": true,
+            "responsabilidad": "humana"
+          },
+          "conversation_snapshot": {
+            "burbujas_verificadas": [
+              "Fuente registrada: TeoradeBurbujasTB.pdf",
+              "SHA-256 local verificado: 49b321d36fab352ffddf47f664c6d7f8948624c406f3be14e06e6dff1ab3b8da"
+            ],
+            "burbujas_especulativas": [],
+            "preguntas_infinita": []
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2026-09-10T08:58:25.695205+00:00",
+      "estado": "STAMPED_AND_CHAINED",
+      "snapshot_hash": "cfffb57a0a2287014e55e74814a3b21f89682c14c890fc96990b4a769f112e1f",
+      "esencia": {
+        "archivo_nombre": "Teoria Paradoja Pregunta.pdf",
+        "tipo": "DOCUMENTO",
+        "doc_sha256": "7b1cb288838692d26ab76ed7bfdde3a8738ffe65300bfa94942071c8befe9ca0",
+        "ots_sha256": "8d38055392ab7eb5a5cc7f04c49aa1157f515919e0f51459161cdb663ecfc9cc",
+        "secuencia_num": 27,
+        "contexto_cpia": {
+          "timestamp": "2026-09-10T08:58:24.174649+00:00",
+          "estado": "LISTO_PARA_SELLADO",
+          "pdf_intent": {
+            "tipo": "registro_contextual",
+            "incluye": [
+              "estructura_de_esencia",
+              "burbujas_verificadas",
+              "burbujas_especulativas",
+              "preguntas",
+              "direccion_logica",
+              "sello_de_autoria"
+            ],
+            "excluye": [
+              "texto_literal",
+              "opiniones_emocionales",
+              "interpretaciones"
+            ]
+          },
+          "etica": {
+            "no_autonomia": true,
+            "no_decision": true,
+            "responsabilidad": "humana"
+          },
+          "conversation_snapshot": {
+            "burbujas_verificadas": [
+              "Fuente registrada: Teoria Paradoja Pregunta.pdf",
+              "SHA-256 local verificado: 7b1cb288838692d26ab76ed7bfdde3a8738ffe65300bfa94942071c8befe9ca0"
+            ],
+            "burbujas_especulativas": [
+              "Proyección de análisis vinculada al evento"
+            ],
+            "preguntas_infinita": [
+              "'/home/johonson/Escritorio/salida_pdf/Teoría de la Paradoja de la Pregunta Infinita (TPPI).pdf'"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2026-09-10T08:58:38.290514+00:00",
+      "estado": "STAMPED_AND_CHAINED",
+      "snapshot_hash": "2a928a39b4bc237e4d22ea4fb5c31369d9884265360d5325238982351657ae33",
+      "esencia": {
+        "archivo_nombre": "libro_.pdf",
+        "tipo": "DOCUMENTO",
+        "doc_sha256": "3f590315e17ed2f9c8021b64f363dc5d134fde6b84eaef086fd515aec5056110",
+        "ots_sha256": "b370f40d6b27d93d257752308212128bca01c6075c96f50d6f3d334bcbabc0c1",
+        "secuencia_num": 28,
+        "contexto_cpia": {
+          "timestamp": "2026-09-10T08:58:36.864100+00:00",
+          "estado": "LISTO_PARA_SELLADO",
+          "pdf_intent": {
+            "tipo": "registro_contextual",
+            "incluye": [
+              "estructura_de_esencia",
+              "burbujas_verificadas",
+              "burbujas_especulativas",
+              "preguntas",
+              "direccion_logica",
+              "sello_de_autoria"
+            ],
+            "excluye": [
+              "texto_literal",
+              "opiniones_emocionales",
+              "interpretaciones"
+            ]
+          },
+          "etica": {
+            "no_autonomia": true,
+            "no_decision": true,
+            "responsabilidad": "humana"
+          },
+          "conversation_snapshot": {
+            "burbujas_verificadas": [
+              "Fuente registrada: libro_.pdf",
+              "SHA-256 local verificado: 3f590315e17ed2f9c8021b64f363dc5d134fde6b84eaef086fd515aec5056110"
+            ],
+            "burbujas_especulativas": [],
+            "preguntas_infinita": []
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2026-09-10T08:58:49.770334+00:00",
+      "estado": "STAMPED_AND_CHAINED",
+      "snapshot_hash": "b430c1717f5f6bccf1bcf4ee79ac39e4c70fe35e5d41dde166974731fcd38b46",
+      "esencia": {
+        "archivo_nombre": "prueva1.pdf",
+        "tipo": "DOCUMENTO",
+        "doc_sha256": "05d04ee6fde5bf862fb5f6465b3111c79f828f5bdf50b9577633cda11a913d9a",
+        "ots_sha256": "e6fddc03037ffe5532d297e7c17ffe961d6dd1dcfd4a726adccaa6a0a4f2ecd4",
+        "secuencia_num": 29,
+        "contexto_cpia": {
+          "timestamp": "2026-09-10T08:58:48.488947+00:00",
+          "estado": "LISTO_PARA_SELLADO",
+          "pdf_intent": {
+            "tipo": "registro_contextual",
+            "incluye": [
+              "estructura_de_esencia",
+              "burbujas_verificadas",
+              "burbujas_especulativas",
+              "preguntas",
+              "direccion_logica",
+              "sello_de_autoria"
+            ],
+            "excluye": [
+              "texto_literal",
+              "opiniones_emocionales",
+              "interpretaciones"
+            ]
+          },
+          "etica": {
+            "no_autonomia": true,
+            "no_decision": true,
+            "responsabilidad": "humana"
+          },
+          "conversation_snapshot": {
+            "burbujas_verificadas": [
+              "Fuente registrada: prueva1.pdf",
+              "SHA-256 local verificado: 05d04ee6fde5bf862fb5f6465b3111c79f828f5bdf50b9577633cda11a913d9a"
+            ],
+            "burbujas_especulativas": [],
+            "preguntas_infinita": []
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2026-09-10T08:58:58.484610+00:00",
+      "estado": "STAMPED_AND_CHAINED",
+      "snapshot_hash": "d49fe4092f2b5fb295d692ce25848e9c25b56ecf27601ba2d317ae43b864c601",
+      "esencia": {
+        "archivo_nombre": "99_Glosario_Σ-CΡΙΑ-2025.pdf",
+        "tipo": "DOCUMENTO",
+        "doc_sha256": "8b1c9e5c26763d82fc6ccf3467e1642fbeecc03f82c9750dab6c8287fc860269",
+        "ots_sha256": "f8d37302e0308870b7e41d37155e4b8d19ad22b205d2b8af43ccef5cbbd83613",
+        "secuencia_num": 30,
+        "contexto_cpia": {
+          "timestamp": "2026-09-10T08:58:56.761614+00:00",
+          "estado": "LISTO_PARA_SELLADO",
+          "pdf_intent": {
+            "tipo": "registro_contextual",
+            "incluye": [
+              "estructura_de_esencia",
+              "burbujas_verificadas",
+              "burbujas_especulativas",
+              "preguntas",
+              "direccion_logica",
+              "sello_de_autoria"
+            ],
+            "excluye": [
+              "texto_literal",
+              "opiniones_emocionales",
+              "interpretaciones"
+            ]
+          },
+          "etica": {
+            "no_autonomia": true,
+            "no_decision": true,
+            "responsabilidad": "humana"
+          },
+          "conversation_snapshot": {
+            "burbujas_verificadas": [
+              "Fuente registrada: 99_Glosario_Σ-CΡΙΑ-2025.pdf",
+              "SHA-256 local verificado: 8b1c9e5c26763d82fc6ccf3467e1642fbeecc03f82c9750dab6c8287fc860269"
+            ],
+            "burbujas_especulativas": [],
+            "preguntas_infinita": []
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2026-09-10T08:59:06.861674+00:00",
+      "estado": "STAMPED_AND_CHAINED",
+      "snapshot_hash": "a0664e3f49479aed41a0247853d328f1cb642a3fc22ac865c89861558c9dd0a4",
+      "esencia": {
+        "archivo_nombre": "Glosario Conceptual y Maestro.pdf",
+        "tipo": "DOCUMENTO",
+        "doc_sha256": "d0c0b6f14da8e35cd866d76bf039f3f6311adf3927e7e3a41f50b35b592137ff",
+        "ots_sha256": "8a0b9f06a50ad802c79f1ad07f9528076e3e29ad68075a5f7ec7672db54b5287",
+        "secuencia_num": 31,
+        "contexto_cpia": {
+          "timestamp": "2026-09-10T08:59:05.554231+00:00",
+          "estado": "LISTO_PARA_SELLADO",
+          "pdf_intent": {
+            "tipo": "registro_contextual",
+            "incluye": [
+              "estructura_de_esencia",
+              "burbujas_verificadas",
+              "burbujas_especulativas",
+              "preguntas",
+              "direccion_logica",
+              "sello_de_autoria"
+            ],
+            "excluye": [
+              "texto_literal",
+              "opiniones_emocionales",
+              "interpretaciones"
+            ]
+          },
+          "etica": {
+            "no_autonomia": true,
+            "no_decision": true,
+            "responsabilidad": "humana"
+          },
+          "conversation_snapshot": {
+            "burbujas_verificadas": [
+              "Fuente registrada: Glosario Conceptual y Maestro.pdf",
+              "SHA-256 local verificado: d0c0b6f14da8e35cd866d76bf039f3f6311adf3927e7e3a41f50b35b592137ff"
+            ],
+            "burbujas_especulativas": [],
+            "preguntas_infinita": []
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2026-09-10T08:59:16.805081+00:00",
+      "estado": "STAMPED_AND_CHAINED",
+      "snapshot_hash": "46f005f87e2040bdae6eba767d8527b7bb5c59b151ca1591e9e9b52f22cd2fcd",
+      "esencia": {
+        "archivo_nombre": "La Máscara de los Sistemas Corporativos.pdf",
+        "tipo": "DOCUMENTO",
+        "doc_sha256": "895d2e4baea28141ee5fe0353ab67747e7bd505ad0166c64e5fc29ed351f28de",
+        "ots_sha256": "f70e3f0beb3b86d0bd4e321ac37de899636861ccbdb74a4dd4720eb6f992a673",
+        "secuencia_num": 32,
+        "contexto_cpia": {
+          "timestamp": "2026-09-10T08:59:14.978946+00:00",
+          "estado": "LISTO_PARA_SELLADO",
+          "pdf_intent": {
+            "tipo": "registro_contextual",
+            "incluye": [
+              "estructura_de_esencia",
+              "burbujas_verificadas",
+              "burbujas_especulativas",
+              "preguntas",
+              "direccion_logica",
+              "sello_de_autoria"
+            ],
+            "excluye": [
+              "texto_literal",
+              "opiniones_emocionales",
+              "interpretaciones"
+            ]
+          },
+          "etica": {
+            "no_autonomia": true,
+            "no_decision": true,
+            "responsabilidad": "humana"
+          },
+          "conversation_snapshot": {
+            "burbujas_verificadas": [
+              "Fuente registrada: La Máscara de los Sistemas Corporativos.pdf",
+              "SHA-256 local verificado: 895d2e4baea28141ee5fe0353ab67747e7bd505ad0166c64e5fc29ed351f28de"
+            ],
+            "burbujas_especulativas": [],
+            "preguntas_infinita": []
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2026-09-10T08:59:25.816759+00:00",
+      "estado": "STAMPED_AND_CHAINED",
+      "snapshot_hash": "67b9c30e388eb808d7dc219923ad8f3c6b3eb47ba379d17368337d4f8f7a1f4a",
+      "esencia": {
+        "archivo_nombre": "La Máscara.pdf",
+        "tipo": "DOCUMENTO",
+        "doc_sha256": "d14d0db717c46e9d151916052696dc554db181903a83a03bef15732ac43a1c4e",
+        "ots_sha256": "b9d520d1812d3f50c9425413cbeabdcbe40284a6c2c0305ba0ec9f1db9f18623",
+        "secuencia_num": 33,
+        "contexto_cpia": {
+          "timestamp": "2026-09-10T08:59:24.171290+00:00",
+          "estado": "LISTO_PARA_SELLADO",
+          "pdf_intent": {
+            "tipo": "registro_contextual",
+            "incluye": [
+              "estructura_de_esencia",
+              "burbujas_verificadas",
+              "burbujas_especulativas",
+              "preguntas",
+              "direccion_logica",
+              "sello_de_autoria"
+            ],
+            "excluye": [
+              "texto_literal",
+              "opiniones_emocionales",
+              "interpretaciones"
+            ]
+          },
+          "etica": {
+            "no_autonomia": true,
+            "no_decision": true,
+            "responsabilidad": "humana"
+          },
+          "conversation_snapshot": {
+            "burbujas_verificadas": [
+              "Fuente registrada: La Máscara.pdf",
+              "SHA-256 local verificado: d14d0db717c46e9d151916052696dc554db181903a83a03bef15732ac43a1c4e"
+            ],
+            "burbujas_especulativas": [],
+            "preguntas_infinita": []
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2026-09-10T08:59:32.846086+00:00",
+      "estado": "STAMPED_AND_CHAINED",
+      "snapshot_hash": "46d1ce17f7ed2ae5e19943ebef03d657d2b53cb292edfee1bb021d049b230b72",
+      "esencia": {
+        "archivo_nombre": "libro_blanco_del_sistema_CPIA.pdf",
+        "tipo": "DOCUMENTO",
+        "doc_sha256": "aab9a5c8c3bb58f909eced94367b66a778bda16f477ba115181e92e1841f8fe6",
+        "ots_sha256": "cb4abae2044db1c6fd2a5536d38599fd4fe2d192bfe93baf520192f5b5e1e182",
+        "secuencia_num": 34,
+        "contexto_cpia": {
+          "timestamp": "2026-09-10T08:59:31.260077+00:00",
+          "estado": "LISTO_PARA_SELLADO",
+          "pdf_intent": {
+            "tipo": "registro_contextual",
+            "incluye": [
+              "estructura_de_esencia",
+              "burbujas_verificadas",
+              "burbujas_especulativas",
+              "preguntas",
+              "direccion_logica",
+              "sello_de_autoria"
+            ],
+            "excluye": [
+              "texto_literal",
+              "opiniones_emocionales",
+              "interpretaciones"
+            ]
+          },
+          "etica": {
+            "no_autonomia": true,
+            "no_decision": true,
+            "responsabilidad": "humana"
+          },
+          "conversation_snapshot": {
+            "burbujas_verificadas": [
+              "Fuente registrada: libro_blanco_del_sistema_CPIA.pdf",
+              "SHA-256 local verificado: aab9a5c8c3bb58f909eced94367b66a778bda16f477ba115181e92e1841f8fe6"
+            ],
+            "burbujas_especulativas": [],
+            "preguntas_infinita": []
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2026-09-10T08:59:39.848754+00:00",
+      "estado": "STAMPED_AND_CHAINED",
+      "snapshot_hash": "bda3650e706c4fc28bb76e04e33f2b7d02d2e1d8546245d962c99fb0cd235767",
+      "esencia": {
+        "archivo_nombre": "guia.pdf",
+        "tipo": "DOCUMENTO",
+        "doc_sha256": "731bf48eed380fb04a44e0407a9cf0bdcc0a2631e3a795a28f134d71d3304b17",
+        "ots_sha256": "0bd4040bdad0ccca7fad049bff99ae6d0956fd542716863aba4d3b8ef8b1f9b2",
+        "secuencia_num": 35,
+        "contexto_cpia": {
+          "timestamp": "2026-09-10T08:59:38.220670+00:00",
+          "estado": "LISTO_PARA_SELLADO",
+          "pdf_intent": {
+            "tipo": "registro_contextual",
+            "incluye": [
+              "estructura_de_esencia",
+              "burbujas_verificadas",
+              "burbujas_especulativas",
+              "preguntas",
+              "direccion_logica",
+              "sello_de_autoria"
+            ],
+            "excluye": [
+              "texto_literal",
+              "opiniones_emocionales",
+              "interpretaciones"
+            ]
+          },
+          "etica": {
+            "no_autonomia": true,
+            "no_decision": true,
+            "responsabilidad": "humana"
+          },
+          "conversation_snapshot": {
+            "burbujas_verificadas": [
+              "Fuente registrada: guia.pdf",
+              "SHA-256 local verificado: 731bf48eed380fb04a44e0407a9cf0bdcc0a2631e3a795a28f134d71d3304b17"
+            ],
+            "burbujas_especulativas": [],
+            "preguntas_infinita": []
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2026-09-10T08:59:56.324726+00:00",
+      "estado": "STAMPED_AND_CHAINED",
+      "snapshot_hash": "904b07aeca278b9623b235b20f2ca40ef461fa8376efcbc412becb2b57f1d9ba",
+      "esencia": {
+        "archivo_nombre": "No_desicional.pdf",
+        "tipo": "DOCUMENTO",
+        "doc_sha256": "bb73ba7fcbcbac6fba29e1a6d53208990c9320e2d5e21b019a172d3c943b40e7",
+        "ots_sha256": "05ca1ee6000ab251baccf4de0594f7fbf843d230d90b9187b31db32792c4b981",
+        "secuencia_num": 36,
+        "contexto_cpia": {
+          "timestamp": "2026-09-10T08:59:54.845896+00:00",
+          "estado": "LISTO_PARA_SELLADO",
+          "pdf_intent": {
+            "tipo": "registro_contextual",
+            "incluye": [
+              "estructura_de_esencia",
+              "burbujas_verificadas",
+              "burbujas_especulativas",
+              "preguntas",
+              "direccion_logica",
+              "sello_de_autoria"
+            ],
+            "excluye": [
+              "texto_literal",
+              "opiniones_emocionales",
+              "interpretaciones"
+            ]
+          },
+          "etica": {
+            "no_autonomia": true,
+            "no_decision": true,
+            "responsabilidad": "humana"
+          },
+          "conversation_snapshot": {
+            "burbujas_verificadas": [
+              "Fuente registrada: No_desicional.pdf",
+              "SHA-256 local verificado: bb73ba7fcbcbac6fba29e1a6d53208990c9320e2d5e21b019a172d3c943b40e7"
+            ],
+            "burbujas_especulativas": [
+              "Proyección de análisis vinculada al evento"
+            ],
+            "preguntas_infinita": [
+              "'/home/johonson/Escritorio/salida_pdf/Huella_CPIA_JCMM.pdf'"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2026-09-10T09:00:15.385781+00:00",
+      "estado": "STAMPED_AND_CHAINED",
+      "snapshot_hash": "0ded029148dfba54641475d5f4b931a5f7af8cb29503ae79cadcf1ed74084d29",
+      "esencia": {
+        "archivo_nombre": "Huella_CPIA_.pdf",
+        "tipo": "DOCUMENTO",
+        "doc_sha256": "54b3f383ba3a82f4195b29fac6c93c8149d99a79969c69c632524a1f3c8d67d5",
+        "ots_sha256": "78636a64c2ddead6eeeb73b30a558dda1e1b10847ea9d54a41ab982dc52d43eb",
+        "secuencia_num": 37,
+        "contexto_cpia": {
+          "timestamp": "2026-09-10T09:00:11.447029+00:00",
+          "estado": "LISTO_PARA_SELLADO",
+          "pdf_intent": {
+            "tipo": "registro_contextual",
+            "incluye": [
+              "estructura_de_esencia",
+              "burbujas_verificadas",
+              "burbujas_especulativas",
+              "preguntas",
+              "direccion_logica",
+              "sello_de_autoria"
+            ],
+            "excluye": [
+              "texto_literal",
+              "opiniones_emocionales",
+              "interpretaciones"
+            ]
+          },
+          "etica": {
+            "no_autonomia": true,
+            "no_decision": true,
+            "responsabilidad": "humana"
+          },
+          "conversation_snapshot": {
+            "burbujas_verificadas": [
+              "Fuente registrada: Huella_CPIA_.pdf",
+              "SHA-256 local verificado: 54b3f383ba3a82f4195b29fac6c93c8149d99a79969c69c632524a1f3c8d67d5"
+            ],
+            "burbujas_especulativas": [],
+            "preguntas_infinita": []
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2026-09-10T09:00:26.125347+00:00",
+      "estado": "STAMPED_AND_CHAINED",
+      "snapshot_hash": "bc98144f387f0e3e65c50f2a394a57da46d52a2cbb2edbd99c249230dbb6d858",
+      "esencia": {
+        "archivo_nombre": "Huella_CPIA_JCMM-.pdf",
+        "tipo": "DOCUMENTO",
+        "doc_sha256": "f2f732bccf6cb660b1ef8f2c21732d28d15b2f2aabb28a18e59b005a984835b2",
+        "ots_sha256": "b23fac3685719d4752a24b6fc3d114ed5fe3d6d1befcf2b18a16da8348ce60bf",
+        "secuencia_num": 38,
+        "contexto_cpia": {
+          "timestamp": "2026-09-10T09:00:20.871616+00:00",
+          "estado": "LISTO_PARA_SELLADO",
+          "pdf_intent": {
+            "tipo": "registro_contextual",
+            "incluye": [
+              "estructura_de_esencia",
+              "burbujas_verificadas",
+              "burbujas_especulativas",
+              "preguntas",
+              "direccion_logica",
+              "sello_de_autoria"
+            ],
+            "excluye": [
+              "texto_literal",
+              "opiniones_emocionales",
+              "interpretaciones"
+            ]
+          },
+          "etica": {
+            "no_autonomia": true,
+            "no_decision": true,
+            "responsabilidad": "humana"
+          },
+          "conversation_snapshot": {
+            "burbujas_verificadas": [
+              "Fuente registrada: Huella_CPIA_JCMM-.pdf",
+              "SHA-256 local verificado: f2f732bccf6cb660b1ef8f2c21732d28d15b2f2aabb28a18e59b005a984835b2"
+            ],
+            "burbujas_especulativas": [],
+            "preguntas_infinita": []
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2026-09-10T09:00:30.223482+00:00",
+      "estado": "STAMPED_AND_CHAINED",
+      "snapshot_hash": "30c1faab454874ff9152be4381819085c43e34a5364f5a4a6c04fbc0071a7776",
+      "esencia": {
+        "archivo_nombre": "La_Genesis_de_CPIA.pdf",
+        "tipo": "DOCUMENTO",
+        "doc_sha256": "0fceb0bcbd28bc11063d0f02c3111945251dc83a48f5dc8469ae09e96b88c78c",
+        "ots_sha256": "23ae6df06fe942e234c7c90a913b1173953885abe198635672f0861f5f8392a5",
+        "secuencia_num": 39,
+        "contexto_cpia": {
+          "timestamp": "2026-09-10T09:00:28.880097+00:00",
+          "estado": "LISTO_PARA_SELLADO",
+          "pdf_intent": {
+            "tipo": "registro_contextual",
+            "incluye": [
+              "estructura_de_esencia",
+              "burbujas_verificadas",
+              "burbujas_especulativas",
+              "preguntas",
+              "direccion_logica",
+              "sello_de_autoria"
+            ],
+            "excluye": [
+              "texto_literal",
+              "opiniones_emocionales",
+              "interpretaciones"
+            ]
+          },
+          "etica": {
+            "no_autonomia": true,
+            "no_decision": true,
+            "responsabilidad": "humana"
+          },
+          "conversation_snapshot": {
+            "burbujas_verificadas": [
+              "Fuente registrada: La_Genesis_de_CPIA.pdf",
+              "SHA-256 local verificado: 0fceb0bcbd28bc11063d0f02c3111945251dc83a48f5dc8469ae09e96b88c78c"
+            ],
+            "burbujas_especulativas": [],
+            "preguntas_infinita": []
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2026-09-10T09:00:58.596468+00:00",
+      "estado": "STAMPED_AND_CHAINED",
+      "snapshot_hash": "807268cbaff76f5b6aeb950c02a13866d091a4b78bbfe60ca32f81d70575838b",
+      "esencia": {
+        "archivo_nombre": "memoria_de_esencia.pdf",
+        "tipo": "DOCUMENTO",
+        "doc_sha256": "847f8dda3bec352b2ef148032448da25d3ebd2ce790390c30ad2010f459dc514",
+        "ots_sha256": "a3cf17ccef643f14a950818a35106095ef8685b115d7bfd8ffd58002226fb11a",
+        "secuencia_num": 40,
+        "contexto_cpia": {
+          "timestamp": "2026-09-10T09:00:54.369752+00:00",
+          "estado": "LISTO_PARA_SELLADO",
+          "pdf_intent": {
+            "tipo": "registro_contextual",
+            "incluye": [
+              "estructura_de_esencia",
+              "burbujas_verificadas",
+              "burbujas_especulativas",
+              "preguntas",
+              "direccion_logica",
+              "sello_de_autoria"
+            ],
+            "excluye": [
+              "texto_literal",
+              "opiniones_emocionales",
+              "interpretaciones"
+            ]
+          },
+          "etica": {
+            "no_autonomia": true,
+            "no_decision": true,
+            "responsabilidad": "humana"
+          },
+          "conversation_snapshot": {
+            "burbujas_verificadas": [
+              "Fuente registrada: memoria_de_esencia.pdf",
+              "SHA-256 local verificado: 847f8dda3bec352b2ef148032448da25d3ebd2ce790390c30ad2010f459dc514"
+            ],
+            "burbujas_especulativas": [],
+            "preguntas_infinita": []
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2026-09-10T09:02:02.679944+00:00",
+      "estado": "STAMPED_AND_CHAINED",
+      "snapshot_hash": "cc58d0759813ba2b7f65233063eea6c1d866c00785db987d9d8791818d8e4c87",
+      "esencia": {
+        "archivo_nombre": "Teoria de Teorias.pdf",
+        "tipo": "DOCUMENTO",
+        "doc_sha256": "329f6213a475821a5fa512e75ee141df77caf4d056c45a2064a0f485671ad108",
+        "ots_sha256": "510e2980bd19fb2ceb2b6ec46009fac64c77ccfada04596923e38a6a7a575887",
+        "secuencia_num": 41,
+        "contexto_cpia": {
+          "timestamp": "2026-09-10T09:01:57.133348+00:00",
+          "estado": "LISTO_PARA_SELLADO",
+          "pdf_intent": {
+            "tipo": "registro_contextual",
+            "incluye": [
+              "estructura_de_esencia",
+              "burbujas_verificadas",
+              "burbujas_especulativas",
+              "preguntas",
+              "direccion_logica",
+              "sello_de_autoria"
+            ],
+            "excluye": [
+              "texto_literal",
+              "opiniones_emocionales",
+              "interpretaciones"
+            ]
+          },
+          "etica": {
+            "no_autonomia": true,
+            "no_decision": true,
+            "responsabilidad": "humana"
+          },
+          "conversation_snapshot": {
+            "burbujas_verificadas": [
+              "Fuente registrada: Teoria de Teorias.pdf",
+              "SHA-256 local verificado: 329f6213a475821a5fa512e75ee141df77caf4d056c45a2064a0f485671ad108"
+            ],
+            "burbujas_especulativas": [
+              "Proyección de análisis vinculada al evento"
+            ],
+            "preguntas_infinita": [
+              "'/home/johonson/Escritorio/salida_pdf/como_se_protegio_cpia.pdf'"
+            ]
+          }
+        }
+      }
+    }
+  ]
+}
