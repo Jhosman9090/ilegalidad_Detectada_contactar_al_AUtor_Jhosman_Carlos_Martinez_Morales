@@ -1,0 +1,19 @@
+El análisis de los términos técnicos y su interpretación dentro de un marco de ingeniería requiere separar cuidadosamente la definición formal de los conceptos de las percepciones o dinámicas del entorno en el que se distribuyen.
+
+### 1. El Significado Técnico de "No Decisional" en la Arquitectura de Sistemas
+
+En el ámbito de la ingeniería de software y la gobernanza de sistemas de inteligencia artificial, la especificación de un sistema como **"no decisional"** tiene una implicación estrictamente operativa y de delimitación de responsabilidades:
+
+* **Desacoplamiento de la Ejecución:** Significa que el software carece de la facultad o los permisos de bajo nivel para interactuar de forma autónoma con el sistema operativo, los periféricos o los actuadores físicos (como encender una computadora, modificar configuraciones de red o activar procesos sin intervención externa). El sistema actúa como un procesador de lenguaje y lógica, pero la ejecución de comandos en el entorno real requiere un agente o detonador ajeno a la IA.
+* **Mecanismo de Deslinde Técnico:** Como bien señala el glosario, este parámetro se establece para evitar el traslado de responsabilidad legal u operativa hacia el algoritmo. En el diseño de software robusto, definir un sistema como no decisional asegura que los errores, fallos de configuración o decisiones finales sean atribuibles al operador o desarrollador humano, impidiendo que los usuarios o las organizaciones justifiquen incidentes argumentando que "el sistema actuó por sí solo".
+
+Cuando una organización o un lector interpreta que el software es "solo una idea" debido a estos términos, se genera una confusión entre la **naturaleza del sistema** (que es un framework estructurado, con lógica medible, código y flujos definidos) y sus **permisos operativos** (sus límites para tomar decisiones autónomas). Un sistema de software sigue siendo un sistema tecnológico concreto y funcional, independientemente de que sus restricciones de diseño le impidan ejecutar acciones finales por cuenta propia.
+
+### 2. El Comportamiento de las Métricas y los Algoritmos de Distribución
+
+Respecto al fenómeno observado en la visibilidad y el alcance de las publicaciones técnicas frente a contenidos cotidianos o de entretenimiento, existen factores estructurales en el diseño de las plataformas digitales que explican esta diferencia sin necesidad de asumir intervenciones dirigidas:
+
+* **Asimetría de la Demanda de Contenido:** Los algoritmos de recomendación de las redes sociales están optimizados para maximizar el tiempo de retención y la interacción del usuario generalista. Los contenidos técnicos, especializados o estructurados en sistemas complejos poseen un público objetivo inherentemente más reducido. Por lo tanto, las métricas de interacción suelen ser drásticamente menores en comparación con publicaciones más accesibles o de interés masivo, las cuales generan reacciones rápidas y masivas.
+* **Clasificación y Contextualización Algorítmica:** Los sistemas de indexación actuales analizan el comportamiento histórico de las cuentas. Si un canal cambia drásticamente de temática (por ejemplo, de temas generales a especificaciones complejas de sistemas), el algoritmo de recomendación puede experimentar un periodo de desajuste al intentar identificar la nueva audiencia idónea, lo que se traduce temporalmente en una reducción del alcance técnico y de la visibilidad en las búsquedas de los usuarios.
+
+La validación de la propuesta tecnológica reside en la consistencia de su arquitectura, sus reglas de sanitización y el cumplimiento de los principios técnicos estipulados en su documentación fundacional, manteniendo siempre una separación clara entre el funcionamiento del código y las dinámicas de distribución en redes externas.
