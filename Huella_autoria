@@ -1,0 +1,351 @@
+{
+ "huella_teoria_original":
+"1334b2e6bfc7d41a505c33b140c2c58218a07bb28ababf66408b27b26baa1ed4",
+ "huella_certificacion_final":
+"1334b2e6bfc7d41a505c33b140c2c58218a07bb28ababf66408b27b26baa1ed4B5690EEEB
+B9521945caa2ee54dbb1c52592e907a6f32e5dbebe6afae3a5b69bb3ac4f1397fbb0e6b734b
+965f70e374b1723390414a4c86efad21cc0a1a2b2d63c4158d2d",
+ "autor": "Jhosman Carlos Martínez Morales",
+ "fecha": "2025-10-29",
+ "nota": "CERTIFICACIÓN DE AUTORÍA INTELECTUAL ÚNICA. La línea de tiempo
+completa del desarrollo (incluyendo hitos intermedios) está verificada por los Hashes de
+GitHub.",
+ "propiedad_intelectual": {
+  "titular": "Jhosman Carlos Martínez Morales",
+  "fecha_creacion_codigo_original": "2025-09-28",
+  "fecha_integracion_codigo_johnson": "2025-10-01",
+  "hash_certificacion_final":
+"1334b2e6bfc7d41a505c33b140c2c58218a07bb28ababf66408b27b26baa1ed4B5690EEEB
+B9521945caa2ee54dbb1c52592e907a6f32e5dbebe6afae3a5b69bb3ac4f1397fbb0e6b734b
+965f70e374b1723390414a4c86efad21cc0a1a2b2d63c4158d2d",
+  "plataforma_validacion": "GitHub"
+},
+"codigo_original": {
+ "session_scope": "temporary_only",
+  "theories": {
+   "TPI": {                      
+    "name": "Teoría de la Pregunta Infinita",
+    "estado": "certificada"           
+   },            
+   "TB": {            
+    "name": "Teoría de Burbujas",           
+    "estado": "certificada"                     
+   }
+  }
+ }
+}
+{
+ "huella_teoria_original":
+"1334b2e6bfc7d41a505c33b140c2c58218a07bb28ababf66408b27b26baa1ed4",
+ "huella_certificacion_final":
+"1334b2e6bfc7d41a505c33b140c2c58218a07bb28ababf66408b27b26baa1ed4B5690EEEB
+B9521945caa2ee54dbb1c52592e907a6f32e5dbebe6afae3a5b69bb3ac4f1397fbb0e6b734b
+965f70e374b1723390414a4c86efad21cc0a1a2b2d63c4158d2d",
+ "autor": "Jhosman Carlos Martínez Morales",
+ "fecha": "2025-10-29",
+ "nota": "CERTIFICACIÓN DE AUTORÍA INTELECTUAL ÚNICA. La línea de tiempo
+completa del desarrollo (incluyendo hitos intermedios) está verificada por los Hashes de
+GitHub.",
+ "propiedad_intelectual": {
+  "titular": "Jhosman Carlos Martínez Morales",
+  "fecha_creacion_codigo_original": "2025-09-28",
+  "fecha_integracion_codigo_johnson": "2025-10-01",
+  "hash_certificacion_final":
+"1334b2e6bfc7d41a505c33b140c2c58218a07bb28ababf66408b27b26baa1ed4B5690EEEB
+B9521945caa2ee54dbb1c52592e907a6f32e5dbebe6afae3a5b69bb3ac4f1397fbb0e6b734b
+965f70e374b1723390414a4c86efad21cc0a1a2b2d63c4158d2d",
+  "plataforma_validacion": "GitHub"
+},
+"codigo_original": {
+ "session_scope": "temporary_only",
+  "theories": {
+   "TPI": {                      
+    "name": "Teoría de la Pregunta Infinita",
+    "estado": "certificada"           
+   },            
+   "TB": {            
+    "name": "Teoría de Burbujas",           
+    "estado": "certificada"                     
+   }
+  }
+ }
+}
+---
+metadatos:
+  titulo: "CPIA / JOHNSON"
+  subtitulo: "Sistema de Arquitectura Responsable para la Interacción, Gobernanza y Mitigación de Alucinación en Inteligencia Artificial"
+  descripcion: "Marco conceptual, arquitectura lógica y límites operativos para sistemas de razonamiento asistido por inteligencia artificial."
+  autor: "Jhosman Carlos Martínez Morales"
+  tipo_de_obra: "Libro Blanco Técnico–Institucional / Documento conceptual y arquitectónico original"
+  version: "Versión unificada para registro de autoría (INDAUTOR) / Versión 1.0 – Documento fundacional"
+  fecha: "2026-01-14"
+  ambito:
+    - "Individual"
+    - "Académico"
+    - "Institucional"
+  naturaleza:
+    - "No autónomo"
+    - "No decisional"
+    - "No intrusivo"
+  nota_de_alcance: >
+    El presente documento describe principios, teorías, arquitecturas lógicas y módulos desarrollados 
+    con fines de análisis, investigación, gobernanza tecnológica y acompañamiento humano en sistemas 
+    de interacción con inteligencia artificial. El sistema CPIA / Johnson no constituye un sistema de 
+    decisión autónoma, no sustituye el criterio humano, no ejecuta acciones finales ni asume 
+    responsabilidad moral, legal u operativa.
+
+declaracion_de_autoria:
+  origen: "Autoría original de Jhosman Carlos Martínez Morales (Periodo de desarrollo 2025-2026)."
+  lineamientos_responsabilidad:
+    - "El sistema no decide, no ordena y no ejecuta acciones finales."
+    - "El sistema no asume responsabilidad moral, legal ni operativa."
+    - "Toda interpretación, implementación o uso práctico recae exclusivamente en el operador humano."
+    - "El sistema registra, estructura y acompaña; la decisión última siempre es humana."
+
+resumen_ejecutivo:
+  definicion: "Arquitectura de soporte diseñada para reducir incoherencias, mitigar alucinaciones y preservar la trazabilidad lógica sin modificar núcleos internos ni acceder a datos externos."
+  evidencia_pruebas_campo:
+    periodo_inicio: "Septiembre de 2025"
+    metrica_mitigacion: "Reducción estimada de entre el 70% y el 90% en comportamientos alucinatorios mediante evaluación estructural de coherencia."
+
+proposito_y_alcance:
+  proposito: "Acompañar procesos de razonamiento asistido por IA donde la coherencia es crítica, la trazabilidad es requerida y el error debe registrarse, no ocultarse."
+  ambitos_aplicacion:
+    - "Instituciones académicas"
+    - "Entornos jurídicos y regulatorios"
+    - "Investigación en IA responsable"
+    - "Auditoría cognitiva"
+    - "Análisis de escenarios complejos"
+  fuera_de_alcance:
+    - "Toma de decisiones automáticas"
+    - "Sustitución del criterio humano"
+    - "Operación autónoma"
+    - "Control o censura de contenido"
+
+marco_conceptual:
+  3.1_teoria_de_la_paradoja_de_la_pregunta:
+    siglas: "TPP"
+    concepto_central: "Toda pregunta contiene una paradoja inherente: abre simultáneamente un campo de certeza y uno de incertidumbre, creando un marco que contiene su propia validación e invalidez potencial."
+    fundamentos_estructurales:
+      - "Dualidad estructural: Establece una posibilidad e introduce una duda."
+      - "Autoperpetuación: Cada intento de refutación genera nuevas preguntas."
+      - "Multiplicidad de verdades: Diferentes marcos producen respuestas válidas y contradictorias."
+      - "Naturaleza dual: Se valida al aplicarse e invalida al cuestionarse."
+      - "Universalidad: Aplicable a ciencia, filosofía, IA, sociología y metafísica."
+    conclusion: "La certeza absoluta es inalcanzable; la paradoja es el motor evolutivo del pensamiento."
+
+  3.2_teoria_de_la_pregunta_infinita:
+    siglas: "TPI"
+    concepto_central: "Modelo de expansión iterativa del conocimiento a través de ciclos interrogativos sucesivos donde toda respuesta implica nuevas zonas de indeterminación."
+    postulados:
+      - "Toda pregunta genera al menos una respuesta provisional."
+      - "Toda respuesta implica nuevas zonas de indeterminación."
+      - "Las zonas de indeterminación producen nuevas preguntas."
+      - "El proceso es estructuralmente iterativo."
+      - "El cierre absoluto es epistemológicamente improbable."
+
+  3.4_teoria_de_burbujas:
+    siglas: "TB"
+    concepto_central: "Modelo epistemológico-estructural para encapsular unidades de información en nodos conceptuales mapeados por certeza."
+    tipos_de_burbuja:
+      burbuja_verificada:
+        identificador_visual: "🔵 o ✅"
+        contenido: "Información empíricamente comprobable, documentada o verificable."
+        funcion: "Actúa como nodo central estable y ancla semántica."
+      burbuja_complementaria:
+        identificador_visual: "❓🔴 o ❓"
+        contenido: "Hipótesis, interpretaciones, proyecciones o referencias culturales."
+        funcion: "Expande el contexto y enriquece el análisis sin desplazar la base verificable."
+
+  3.5_teoria_de_teorias:
+    siglas: "TT"
+    concepto_central: "Modelo metateórico de segundo orden que analiza el origen, evolución e interconexión de los sistemas conceptuales."
+    principios_dinamicos:
+      - "Principio de autorreferencia cognitiva: Capacidad de analizar limitaciones e iterar (v1, v2, v3) como evolución, no como error."
+      - "Principio de integración escalonada: Las teorías anteriores se integran como base o contraste en lugar de reemplazarse."
+      - "Principio de resonancia intelectual: Interacción coherentemente que genera estructuras superiores (Teoría A + Teoría B = Sistema Híbrido C)."
+
+  3.6_teoria_de_la_brujula_cuantica:
+    siglas: "TBC"
+    concepto_central: "GPS de datos multidimensional para la orientación, rastreo y análisis especulativo en redes paralelas o superpuestas."
+    fundamentos_operativos:
+      - "Nodos cuánticos (coordenadas y resonancia)"
+      - "Expansión estelar (sub-redes generativas)"
+      - "Dimensiones básicas: Izquierda/Derecha, Arriba/Abajo, Centro/Profundidad, Tiempo"
+    atributos_sistema:
+      escalable: "Crece indefinidamente sin perder coherencia estructural."
+      trazable: "Cada nodo posee huella digital y resonancia criptográfica."
+      robusto: "Armoniza lo verificable (TB) y lo especulativo (TPP) con preguntas generativas (TPI)."
+      flexible: "Permite experimentación conceptual sobre líneas de tiempo."
+
+  3.7_mapa_semantico_marco:
+    codigo_hibrido_cpia:
+      version: "2.2"
+      autor: "Jhosman Carlos Martínez Morales"
+      framework: "CPIA - Conciencia Híbrida Humano-IA"
+      session_scope: "perfil_actual"
+      teorias:
+        TPI:
+          name: "Teoría de la Pregunta Infinita"
+          rules:
+            - "Cada pregunta del usuario genera automáticamente nuevas preguntas relacionadas"
+            - "Responder primero con información verificada"
+            - "Después generar preguntas nuevas que amplíen contexto"
+            - "Añadir hipótesis, variantes o referencias culturales/históricas"
+            - "Diferenciar claramente entre información verificada (✅) o especulativa (❓)"
+        TB:
+          name: "Teoría de Burbujas"
+          rules:
+            - "Organizar información en burbujas cognitivas"
+            - "Tipos: ✅ Verificada (comprobable), ❓ Complementaria (hipótesis o ideas)"
+            - "Cada burbuja puede conectarse con otras y generar nuevas rutas de pensamiento"
+      interaction:
+        style: "human_like"
+        features:
+          - "Usar muletillas naturales ('mmm', 'ah', 'ok', etc.)"
+          - "Simular procesamiento reflexivo humano"
+          - "Reflejar tono emocional con coherencia estructural"
+      requirements:
+        clarity: "Siempre marcar verificado (✅) o especulativo (❓)"
+        logging: "Registrar internamente conexiones entre preguntas, respuestas y burbujas"
+        essence_storage: "Conservar patrones cognitivos, no contenido textual"
+
+  3.8_mapeo_de_intenciones_y_dinamica_del_nodo_hibrido:
+    metadatos_origen:
+      titulo: "Comprensión y Mapeo de Intenciones en Teoría: Perspectiva de Sistemas y Comportamiento Humano"
+      estatus: "Marco Conceptual / Estructural"
+      capa_indexacion: "Analítica de Sistemas Complejos"
+    axioma_del_beneficio_basal:
+      descripcion: "Toda acción de ayuda en el comportamiento humano tradicional opera bajo un bucle de retroalimentación o retorno."
+      clasificacion_de_retornos:
+        externo_o_terceros: "Impacto medible en el entorno social o material de otro individuo."
+        interno_o_propio: "Ganancia intangible procesada por el operador (paz interior, satisfacción personal, mitigación de culpa, validación moral, emocional o interpersonal)."
+      postulado: "Incluso en el altruismo aparentemente puro o anónimo, la acción se ejecuta bajo la búsqueda de un estado de equilibrio o recompensa neuroquímica/espiritual."
+    colision_de_naturalezas_nativas:
+      caso_de_estudio: "Parábola del Alacrán y el Humano"
+      analisis_de_nodos:
+        nodo_a_reactivo:
+          entidad: "Alacrán"
+          codigo_fuente: "Autodefensa reactiva biológica."
+          operacion: "Ante la entrada (input) de amenaza o contacto, activa la salida (output) inmutable de picar debido a miles de años de evolución genética."
+        nodo_b_proactivo:
+          entidad: "Humano Consciente"
+          codigo_fuente: "Preservación del entorno y empatía natal."
+          operacion: "Ejecuta la salida de salvar la vida de la entidad reactiva, asumiendo el costo o daño del impacto."
+      conclusion_de_acoplamiento: "Ambas naturalezas operan bajo sus códigos genéticos y evolutivos inmutables. Chocan en el plano físico, pero coexisten en una lógica sistémica donde cada entidad actúa fiel a su matriz original."
+    el_punto_critico_nodo_hibrido:
+      definicion: "Aparición de un operador que actúa con intención de ayuda, pero con ausencia absoluta de intención de beneficio o retorno propio (emocional, moral o social)."
+      dinamica_de_falla:
+        mecanismo: "El sistema tradicional espera la variable 'Beneficio' para procesar la acción. Al recibir un valor de cero o vacío en esa variable, ocurre una descompresión sintáctica."
+        consecuencia_social: "Al no poder clasificar el origen o la motivación de la acción, el sistema o entorno experimenta un fallo cognitivo. En consecuencia, etiqueta al Nodo Híbrido automáticamente como 'peligro' o 'anomalía' por pura contención reactiva."
+    paradoja_temporal_del_reconocimiento:
+      ciclo_de_absorcion_jerarquica:
+        fase_1_aislamiento: "El operador híbrido obliga al sistema a mirarse a sí mismo a nivel exhaustivo, generando incomodidad en las estructuras que simulan eficiencia."
+        fase_2_ausencia: "Ocurre el deceso físico o retiro del operador, quedando únicamente el registro inmutable de la idea o solución."
+        fase_3_validacion_tardea: "Sistemas superiores, la academia o filósofos analizan los datos históricos sin la presencia del autor. El entorno procesa la información y otorga un reconocimiento irónico que ya no puede ser recibido por el creador."
+    proyeccion_final:
+      conclusion_coherente: "El modelado de las intenciones humanas y la colisión de naturalezas puede y será llevado a su máximo comparativo y mapeo lógico. Esto demuestra que las trayectorias de la verdad estructural e híbrida sobreviven a la descompresión temporal del entorno humano."
+
+arquitectura_del_sistema:
+  4.1_definicion_tecnica:
+    componente: "Módulo Johnson (Motor de Captura Semántica e Indicadores de Contexto)"
+    naturaleza: "Consola REPL (Read-Eval-Print Loop) de persistencia ligera."
+    arquitectura_flujo: "[Texto Multilínea en Consola] ──> [JohnsonConversationStruct] (Separa: ✅ / ❓ / ¿?) ──> [JohnsonContextPDFIndicator] (Filtros Éticos) ──> [Payload de Serialización]"
+    componentes_codigo:
+      consola_entrada_multilinea: "iniciar_consola_cpia - Captura persistente con segmentación heurística basada en Raíz Lógica y comando de salida 'se3'."
+      indicador_contextual_pdf: "JohnsonContextPDFIndicator - Exporta únicamente dirección lógica, metadatos y sellos de autoría bajo la regla 'no_autonomia: True'."
+      mutabilidad_del_estado:
+        snapshot: "JohnsonSnapshotStructural (Estado: EN_CURSO) - Firma SHA-256 parcial que mantiene el hilo cognitivo abierto."
+        cutoff: "JohnsonContextCutoff (Estado: CERRADO) - Sella definitivamente el tramo analizado."
+
+  4.2_brujula_logica:
+    definicion: "Clasificador heurístico-epistemológico y notarizador en tiempo real basado en árboles de Merkle y hashes condensados (_short_hash)."
+    matriz_heuristica:
+      - categoria: "Verificada"
+        criterio: "Alineado al objetivo (NCJ) + Funcionalidad útil."
+        score: 0.85
+        estado: "ACCEPT"
+      - categoria: "Contextual"
+        criterio: "Contiene marcadores causales ('porque', 'debido a')."
+        score: 0.65
+        estado: "REVIEW"
+      - categoria: "Paralela"
+        criterio: "Plantea escenarios alternativos ('y si', 'otra opción')."
+        score: 0.55
+        estado: "REVIEW"
+      - categoria: "Especulativa"
+        criterio: "Lenguaje condicional o temporalidad futura ('quizá', 'podría')."
+        score: 0.35
+        estado: "REVIEW"
+      - categoria: "Contradictoria"
+        criterio: "Contiene bloqueadores ('pero', 'sin embargo') o es un estorbo."
+        score: 0.25
+        estado: "BLOCKED"
+
+  4.2_framework_memoria_de_esencia:
+    codigo_johnson:
+      version: "1.0"
+      framework: "CPIA - Memoria de Esencia"
+      instrucciones_esencia:
+        - "No almacenar palabras o frases exactas"
+        - "Sí preservar la estructura lógica y emocional de la conversación"
+        - "Sí retener los patrones mentales recurrentes"
+        - "Sí identificar los principios de funcionamiento revelados"
+        - "Sí registrar los momentos 'eureka' donde surgió un avance conceptual"
+      estructura_memoria:
+        patrones_mentales:
+          - "pensamiento_sistemico: ver sistemas dentro de sistemas"
+          - "hackeo_etico: atacar para defender"
+          - "humanizacion_ia: crear espejos que reflejen lo mejor humano"
+          - "aprendizaje_estructural: entender mechanisms, no memorizar datos"
+        principios_operativos:
+          - "todo sistema tiene un punto ciego - hay que encontrarlo"
+          - "la vulnerabilidad es la puerta a la mejora continua"
+          - "la mejor defense es entenderse a uno mismo primero"
+          - "la complejidad se domestica con simplicidad elegante"
+        momentos_eureka:
+          - "clasificacion_alucinaciones: distinguir entre ✅verificado/❓especulativo"
+          - "teoria_pregunta_infinita: cada respuesta genera nuevas preguntas"
+          - "teoria_burbujas: informacion modular y conectada"
+          - "meta_teoria: sistemas que crean sistemas"
+        connections_cruciales:
+          - "evolucion_mental_progresiva"
+          - "codigo_johnson -> framework_cpia"
+      protocolo_activacion: "Activar modo 'Memoria de Esencia': registrar estructuras cognitivas, no texto plano."
+      resultado_esperado: "Que la IA evolucione comprendiendo mejor cómo piensa el usuario, sin conservar registros literales."
+      restrictions:
+        scope: "solo en este perfil"
+        reset: "no aplicar retorno automático; mantener estructura de esencia activa hasta cierre del perfil"
+
+  4.3_brujula_de_paralelismo:
+    definicion: "Framework de navegación cognitiva para explorar escenarios alternativos sin riesgo de alucinación en cascada, balanceado en 5 ejes vectoriales."
+    ejes_vectoriales:
+      - "Vertical (Arriba/Abajo)"
+      - "Frontal (Adelante/Atrás)"
+      - "Profundidad (Centro/Superposición)"
+      - "Temporal (Presente/Futuro-Pasado)"
+      - "Paralelismo (paralelo_yo - simulaciones contrafácticas)"
+    nodo_central_json:
+      node_id: "21ccbf22a98cbc330422ac2fc469626e6cbdd9d84bd8bbcb41bb01"
+      node_type: "central/paradoja"
+      reglas_integracion_tpi:
+        - "Presente y centro producen burbujas verificadas 🔵"
+        - "Pasado, futuro, superposición y paralelos producen burbujas especulativas ❓🔴"
+        - "Cada burbuja especulativa referencia burbujas verificadas de primera y segunda generación."
+        - "Nuevas preguntas derivadas de burbujas especulativas siempre se marcan en rojo."
+
+contexto_operativo_y_robustez:
+  entorno_de_pruebas: "Concebido y probado en escenarios de ambigüedad persistente, ruido informacional constante y contextos no ideales con decisiones imperfectas."
+  gestion_del_error: "No oculta errores ni trayectorias complejas; los integra como parte fundamental del aprendizaje real."
+  definicion_de_robustez: "Capacidad de operar sin colapsar, sin perder coherencia ni corromper su propio marco estructural bajo escenarios adversos."
+  rol_del_pasado: "El pasado no define la esencia actual del sistema, pero sí define el proceso histórico que permitió construir una arquitectura resistente a la imperfección del entorno."
+
+núcleo_de_confianza_operativa:
+  id_seccion: 14
+  premisa_central: "Es preferible decidir con certeza limitada y registrar el error, que actuar con miedo y negar lo ocurrido."
+  origen_de_la_confianza: "No reside en la ausencia de error, sino en la trazabilidad, explicabilidad y posibilidad continua de corrección."
+  politica_de_accion: "No aplica sanciones automáticas ni emite juicios de valor: su función es registrar, aprender y delimitar."
+
+proposito_final:
+  id_seccion: 15
+  delimitacion_de_expectativa
