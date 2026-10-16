@@ -1,0 +1,410 @@
+cuentalimpia@jhosman-carlos-martinez-cpia-johnson:~$ python3 '/home/cuentalimpia/Escritorio/merkel_v6.py' 
+===========================================================================
+    Σ-CPIA / JOHNSON — CONSOLA INTERACTIVA DE CUSTODIA TOTAL v2.5
+===========================================================================
+Autor: Jhosman Carlos Martínez Morales
+• Escribe la ruta de un archivo individual o de una CARPETA completa (escanea subcarpetas).
+• Escribe 'texto' para ingresar texto plano directamente.
+• Escribe 'salir' para generar los reportes finales globales.
+
+
+[Σ-CPIA] Ingrese ruta (archivo/carpeta), 'texto' (o 'salir'): '/home/cuentalimpia/Descargas/correo_americano' 
+
+📂 [DIRECTORIO]: Escaneando recursivamente '/home/cuentalimpia/Descargas/correo_americano'...
+    • Se detectaron 48 archivos (incluyendo subcarpetas).
+
+---> [Procesando Evento #1]: Documento sin título 8
+    • SHA-256: 191c8a80977f9f6448de4580a497dfc1dd1a7a9b4e1b4824df720d404864db06
+    • Solicitando estampa OpenTimestamps (Blockchain)...
+    ✓ [OTS ÉXITO]: 135a8aadb10d5a6e04a7b96b219815e1b5948fe768068cd419431c38de8b0219
+    ✓ [PDF CREADO]: Guardado en '/home/cuentalimpia/Descargas/cpia_salida_pdfs/Evidencia_Documento_sin_título_8.pdf'
+    • Raíz Merkle Acumulada: 0bb7e94078a3f33f11bbb961dfd2ea2edddf308371636927f904d2f64fd5c10a
+-----------------------------------------------------------------
+
+---> [Procesando Evento #2]: Documento sin título 7
+    • SHA-256: 295c71cfa6b14abbf95c3ef9bda23258e8a2076de5f8b84a82f379cca9811c9f
+    • Solicitando estampa OpenTimestamps (Blockchain)...
+    ✓ [OTS ÉXITO]: 6d3924c55236c0635a09476c63778b832340e22afe5e08f4c0cf057de6754b2c
+    ✓ [PDF CREADO]: Guardado en '/home/cuentalimpia/Descargas/cpia_salida_pdfs/Evidencia_Documento_sin_título_7.pdf'
+    • Raíz Merkle Acumulada: 4039e2ec47c1f4aad728464a9d63fb57b9358c27eeccac49a80598fc16519163
+-----------------------------------------------------------------
+
+---> [Procesando Evento #3]: Documento sin título 28
+    • SHA-256: b40017acfd0680ef4279305f25cdde8f9dff1333b62447dee74c005d6aedea00
+    • Solicitando estampa OpenTimestamps (Blockchain)...
+    ✓ [OTS ÉXITO]: c5996249d2d6a8933b748efeebdc219630a382d61a8c9c322fea0fbfd437c283
+    ✓ [PDF CREADO]: Guardado en '/home/cuentalimpia/Descargas/cpia_salida_pdfs/Evidencia_Documento_sin_título_28.pdf'
+    • Raíz Merkle Acumulada: 1c16334b121021cce6b2027a63656b3e9339f073d5a2fda201db931bebba814b
+-----------------------------------------------------------------
+
+---> [Procesando Evento #4]: Documento sin título 16
+    • SHA-256: abc4e2269b4336f2cab3d514f63e4e88bbead204af3a609b2b23e724e1103b65
+    • Solicitando estampa OpenTimestamps (Blockchain)...
+    ✓ [OTS ÉXITO]: f294c382de62be5f93a0dead3f6642d2f7ec94448619513a674fc77a079876c8
+    ✓ [PDF CREADO]: Guardado en '/home/cuentalimpia/Descargas/cpia_salida_pdfs/Evidencia_Documento_sin_título_16.pdf'
+    • Raíz Merkle Acumulada: 754228cf1fe0a0aa25b1130122f63ad3df53d0269672c8636f54dfef3155fde5
+-----------------------------------------------------------------
+
+---> [Procesando Evento #5]: Documento sin título 1
+    • SHA-256: 8c7d95d29f6536d38baa82522c0f54b207e285433c75471cf865036d65dd0761
+    • Solicitando estampa OpenTimestamps (Blockchain)...
+    ✓ [OTS ÉXITO]: 6fc4334b034b82806c1f966723f15bba3e66a0f05b3e6fc273b15681e8283523
+    ✓ [PDF CREADO]: Guardado en '/home/cuentalimpia/Descargas/cpia_salida_pdfs/Evidencia_Documento_sin_título_1.pdf'
+    • Raíz Merkle Acumulada: ddc847fa73beee7561b47098aaba20cee584e1cddf421fde3b066ebe245eaae9
+-----------------------------------------------------------------
+
+---> [Procesando Evento #6]: Documento sin título 24
+    • SHA-256: 6a120374009e135589735ae7fd5be1f13fc322eba2597f70d82195360d07141f
+    • Solicitando estampa OpenTimestamps (Blockchain)...
+    ✓ [OTS ÉXITO]: 263988484c4afed6b484c102d2f833507e912306b501c2d637e07839a61d9cfc
+    ✓ [PDF CREADO]: Guardado en '/home/cuentalimpia/Descargas/cpia_salida_pdfs/Evidencia_Documento_sin_título_24.pdf'
+    • Raíz Merkle Acumulada: 3df1a9a76f3da03b7760c4ffecf04120f2f88b9c7044419bf27a1d84a1b1b44f
+-----------------------------------------------------------------
+
+---> [Procesando Evento #7]: Documento sin título 31
+    • SHA-256: 3278f897b177d62743a96c8ab53989ee0efdbe90e9ec6d51dbe61a16dcbb7ce5
+    • Solicitando estampa OpenTimestamps (Blockchain)...
+    ✓ [OTS ÉXITO]: 4573c75bb030ea7becb987a74cf863611f74c3535aaac4b9c619a6f309deb163
+    ✓ [PDF CREADO]: Guardado en '/home/cuentalimpia/Descargas/cpia_salida_pdfs/Evidencia_Documento_sin_título_31.pdf'
+    • Raíz Merkle Acumulada: 98c0dc549096cc8c24ebdf62062e339282f41ddec0452d08574b62846405406a
+-----------------------------------------------------------------
+
+---> [Procesando Evento #8]: Documento sin título 37
+    • SHA-256: 4b0d46e407589f76bcbd0861feddbdc37353d9b12e430d3727d97a4e27912cd9
+    • Solicitando estampa OpenTimestamps (Blockchain)...
+    ✓ [OTS ÉXITO]: 49826fef616217112a491d25bd9395f4131eb36627bc9098d0b562cf122ee08c
+    ✓ [PDF CREADO]: Guardado en '/home/cuentalimpia/Descargas/cpia_salida_pdfs/Evidencia_Documento_sin_título_37.pdf'
+    • Raíz Merkle Acumulada: 0a619c8a4cd9605f86889d26c39e6f701f82b44722c6c5332d0a28a927c84a0b
+-----------------------------------------------------------------
+
+---> [Procesando Evento #9]: Documento sin título 14
+    • SHA-256: ea50b5b7ace5ea7274b724b03df5321307447f21510c2c48009eae9e39679e49
+    • Solicitando estampa OpenTimestamps (Blockchain)...
+    ✓ [OTS ÉXITO]: 5b8ed8dabf0a42f91698b09cc12221cef59efeb5a17288556092576ec5cc39a3
+    ✓ [PDF CREADO]: Guardado en '/home/cuentalimpia/Descargas/cpia_salida_pdfs/Evidencia_Documento_sin_título_14.pdf'
+    • Raíz Merkle Acumulada: 81664a6ef070c5730e7a8b39506fc9e725ab2e9456d331e87e2506eaba57981c
+-----------------------------------------------------------------
+
+---> [Procesando Evento #10]: Documento sin título 3
+    • SHA-256: 4743a05c579f2717a99f8830d379741efcdad68b48ab3b156a2790e3b5c9372e
+    • Solicitando estampa OpenTimestamps (Blockchain)...
+    ✓ [OTS ÉXITO]: 336376079fdc703d56fdce833288b61520b397967273de1435371ab693b1499c
+    ✓ [PDF CREADO]: Guardado en '/home/cuentalimpia/Descargas/cpia_salida_pdfs/Evidencia_Documento_sin_título_3.pdf'
+    • Raíz Merkle Acumulada: 3be9f5b103f4502b411321e5203e75ae9a2f87aea87f004df81fb52b22ca9ca7
+-----------------------------------------------------------------
+
+---> [Procesando Evento #11]: Documento sin título 38
+    • SHA-256: f2cce142db22a351e0411770c8ce8899bbb6af2ee56beb3a424376af212cbea8
+    • Solicitando estampa OpenTimestamps (Blockchain)...
+    ✓ [OTS ÉXITO]: b0c19127c4829f3e6322c88dacefb39182b7d54fd7b8bb86c1e58b5a44c5fb1a
+    ✓ [PDF CREADO]: Guardado en '/home/cuentalimpia/Descargas/cpia_salida_pdfs/Evidencia_Documento_sin_título_38.pdf'
+    • Raíz Merkle Acumulada: 8da874e1f6d1621a38305521598b1acaa3d6a4869b434960ac7c6854c1f817eb
+-----------------------------------------------------------------
+
+---> [Procesando Evento #12]: Documento sin título 13
+    • SHA-256: 744e47f4a8b2bf79bb961b394eaf6007f9605ec9468aab8bcaba4b7674acd1a1
+    • Solicitando estampa OpenTimestamps (Blockchain)...
+    ✓ [OTS ÉXITO]: ebbdfad14742cedafcfd7a4298b608d7dfc1b368613046b8bf7997c2b4d9808a
+    ✓ [PDF CREADO]: Guardado en '/home/cuentalimpia/Descargas/cpia_salida_pdfs/Evidencia_Documento_sin_título_13.pdf'
+    • Raíz Merkle Acumulada: ea2a1b8d2b55a7aa57baca767ae9f1eb154fa6a8cdc9044bb08c8de661301f72
+-----------------------------------------------------------------
+
+---> [Procesando Evento #13]: 1000088766.jpg
+    • SHA-256: 09a2c37f26131ab02e1a7235eedaad4175a74bd01149d688f61101fa7e91ff8f
+    • Solicitando estampa OpenTimestamps (Blockchain)...
+    ✓ [OTS ÉXITO]: 081a26da7e3b1d4aa2fab0fbdebca9c63859386c342d6f001f32d249332d6b2f
+    ✓ [PDF CREADO]: Guardado en '/home/cuentalimpia/Descargas/cpia_salida_pdfs/Evidencia_1000088766.pdf'
+    • Raíz Merkle Acumulada: 9811924ebbe9a09b6cffe8df6af4fa3e9cb28e73776ab7560a1c98c2c9c23c1d
+-----------------------------------------------------------------
+
+---> [Procesando Evento #14]: 1000088765.jpg
+    • SHA-256: d8376be55c1b3c62d2e0f849a59dadadc47671a5bac7f0bf29d0364debdf4023
+    • Solicitando estampa OpenTimestamps (Blockchain)...
+    ✓ [OTS ÉXITO]: d7bd450dc715ed1d9f4998752d7d63ccfa158ce27f9c6bcd15ce8d19d035edae
+    ✓ [PDF CREADO]: Guardado en '/home/cuentalimpia/Descargas/cpia_salida_pdfs/Evidencia_1000088765.pdf'
+    • Raíz Merkle Acumulada: 33e9a67c65e8b973f2a3ab49f6802ed6ddcbac3c62124ccb9b39547c23e9d7e3
+-----------------------------------------------------------------
+
+---> [Procesando Evento #15]: Documento sin título 18
+    • SHA-256: 34499d5d3bf5d0c9815093730cbfcf4525d6292fd2bb903c93bcb644e126132d
+    • Solicitando estampa OpenTimestamps (Blockchain)...
+    ✓ [OTS ÉXITO]: 4be7bf225ca8d6c1ad69368a45cac8fe35fb694b4737a1aefdea024e42d53388
+    ✓ [PDF CREADO]: Guardado en '/home/cuentalimpia/Descargas/cpia_salida_pdfs/Evidencia_Documento_sin_título_18.pdf'
+    • Raíz Merkle Acumulada: dc592f9f5b7ff46c70a219cb735efaa66a1aa95f550d7bd05183ff6b29816458
+-----------------------------------------------------------------
+
+---> [Procesando Evento #16]: Documento sin título 11
+    • SHA-256: dd352953126f8bac597adb8a80a037aeb32a481552cc442f4c7c3609ffdb2dc4
+    • Solicitando estampa OpenTimestamps (Blockchain)...
+    ✓ [OTS ÉXITO]: ed45d887986c421517b604af94f687f7a0c882a1da9a6a18792f0f4175f84c22
+    ✓ [PDF CREADO]: Guardado en '/home/cuentalimpia/Descargas/cpia_salida_pdfs/Evidencia_Documento_sin_título_11.pdf'
+    • Raíz Merkle Acumulada: 10b3b2e1f315fed664523ebaf9a47f853bd8538548bc7a831707d19b8eebab27
+-----------------------------------------------------------------
+
+---> [Procesando Evento #17]: Documento sin título 34
+    • SHA-256: c7b64f1cbd65aa1fb4b85b71a1d627a8b8cc03b8d6fce8ad2852ad6c2603b82a
+    • Solicitando estampa OpenTimestamps (Blockchain)...
+    ✓ [OTS ÉXITO]: 33b7e83d774d78a12b4568aeb64f3de815d9ac4fde148795226c2e8df3821cf2
+    ✓ [PDF CREADO]: Guardado en '/home/cuentalimpia/Descargas/cpia_salida_pdfs/Evidencia_Documento_sin_título_34.pdf'
+    • Raíz Merkle Acumulada: 60242da9b38313b9907a7b38c0b3553786c2710960212eecd30c23508751c4a7
+-----------------------------------------------------------------
+
+---> [Procesando Evento #18]: 1000085014.jpg
+    • SHA-256: 6520069f37d0752fa76d7000d3d01bf4de4571d937643f769fb8e0e1dbfb9d69
+    • Solicitando estampa OpenTimestamps (Blockchain)...
+    ✓ [OTS ÉXITO]: d36942858db6264072df72544e2c29f56d06aa9f5e92e6ce46a81e10d6bd2c30
+    ✓ [PDF CREADO]: Guardado en '/home/cuentalimpia/Descargas/cpia_salida_pdfs/Evidencia_1000085014.pdf'
+    • Raíz Merkle Acumulada: 7728d0eb18a504ae5ce1d6042cffac2e1683441549932403ead026b9a4e7e58d
+-----------------------------------------------------------------
+
+---> [Procesando Evento #19]: Documento sin título 17
+    • SHA-256: 1d436af8eca9aa5535d68ad2dff96c28c4aea2278c2260704fced62931d2735e
+    • Solicitando estampa OpenTimestamps (Blockchain)...
+    ✓ [OTS ÉXITO]: 57734be74a52e40c8a6d4cd130368dc3a1ecbffa63070a4901856ead6c0ccaa3
+    ✓ [PDF CREADO]: Guardado en '/home/cuentalimpia/Descargas/cpia_salida_pdfs/Evidencia_Documento_sin_título_17.pdf'
+    • Raíz Merkle Acumulada: 13ce31d570ed95f24755b0b5710049b440fbf98ff2b16eb1110f9930e65d1a17
+-----------------------------------------------------------------
+
+---> [Procesando Evento #20]: Documento sin título 26
+    • SHA-256: fb265d2ba5a18bb15e00dfa808541c4a23886d594be3d678ef7ab771272acca9
+    • Solicitando estampa OpenTimestamps (Blockchain)...
+    ✓ [OTS ÉXITO]: 5b66b7b222c25eb41d3a3fe3803eb5cebd49bf2e748439b9c474d30ea7805e75
+    ✓ [PDF CREADO]: Guardado en '/home/cuentalimpia/Descargas/cpia_salida_pdfs/Evidencia_Documento_sin_título_26.pdf'
+    • Raíz Merkle Acumulada: 4acc0d842e938b453f3221288afe625e397bdd92ea743eba49c3728eaaefb9e7
+-----------------------------------------------------------------
+
+---> [Procesando Evento #21]: Documento sin título 22
+    • SHA-256: 09a48d31a9a645e5c607bbf92756770ad1e92600285b49c6079c84cbafd6c727
+    • Solicitando estampa OpenTimestamps (Blockchain)...
+    ✓ [OTS ÉXITO]: 0dfa8b5ce11f18b2cfd3e9ff9185a211e7a9e6eb6b71899bf4d9221d4de173ee
+    ✓ [PDF CREADO]: Guardado en '/home/cuentalimpia/Descargas/cpia_salida_pdfs/Evidencia_Documento_sin_título_22.pdf'
+    • Raíz Merkle Acumulada: c65c7e68a06689c2abff0272eabf286eb1de9e1c2c264dede050ec5f7a60c64f
+-----------------------------------------------------------------
+
+---> [Procesando Evento #22]: Documento sin título 29
+    • SHA-256: e3e676119b739194d5e1186556c06ab81fa7c9bc69de852ec6108bd4e7a5d654
+    • Solicitando estampa OpenTimestamps (Blockchain)...
+    ✓ [OTS ÉXITO]: 3bc49901659f2f4672bd3943b2bb641a408629075ca7e3dc7d016b42699e0689
+    ✓ [PDF CREADO]: Guardado en '/home/cuentalimpia/Descargas/cpia_salida_pdfs/Evidencia_Documento_sin_título_29.pdf'
+    • Raíz Merkle Acumulada: c38fdf83dfb7957df7a263a9a51084c7b4b935a3b9b563e3517310caf944786d
+-----------------------------------------------------------------
+
+---> [Procesando Evento #23]: 1000085023.jpg
+    • SHA-256: 8ba7f606611caeeef479e8496dd2781b5b75a22a3e4534125ef623aa46fdeca2
+    • Solicitando estampa OpenTimestamps (Blockchain)...
+    ✓ [OTS ÉXITO]: 460ec141477676bcb9e671bab7f7b86bc7cc1fa45a98fa8533663889ecce2cf4
+    ✓ [PDF CREADO]: Guardado en '/home/cuentalimpia/Descargas/cpia_salida_pdfs/Evidencia_1000085023.pdf'
+    • Raíz Merkle Acumulada: a34bf0f63679adf04246b45f1649e60995f9b3cd6886874d861706909c93cb10
+-----------------------------------------------------------------
+
+---> [Procesando Evento #24]: Documento sin título 10
+    • SHA-256: a28e242078f545036f9fede897de95e49429968f5e709301770b76f2add340ca
+    • Solicitando estampa OpenTimestamps (Blockchain)...
+    ✓ [OTS ÉXITO]: 98b0adb693e8c86802dfafc57b9bdcc5a7fcf7f03ecb44c28a4856ce040f7829
+    ✓ [PDF CREADO]: Guardado en '/home/cuentalimpia/Descargas/cpia_salida_pdfs/Evidencia_Documento_sin_título_10.pdf'
+    • Raíz Merkle Acumulada: 725a9bd59990f2caa8b497adc17ddfd9f02311e888a7b1129854df8f8b7077e2
+-----------------------------------------------------------------
+
+---> [Procesando Evento #25]: 1000087756.jpg
+    • SHA-256: 37292e41cb05f62fdb80a277a30e14b828383326508393bf32eaa7679b9f4bb2
+    • Solicitando estampa OpenTimestamps (Blockchain)...
+    ✓ [OTS ÉXITO]: 3c82ae622e7125f642e685bc18a63c7bbda647f059da07c60c8a3c3d1b571f7b
+    ✓ [PDF CREADO]: Guardado en '/home/cuentalimpia/Descargas/cpia_salida_pdfs/Evidencia_1000087756.pdf'
+    • Raíz Merkle Acumulada: 53128fd00966a1f3678071929144a80cbf50642fbc2b375eb643cee193241c26
+-----------------------------------------------------------------
+
+---> [Procesando Evento #26]: Documento sin título 15
+    • SHA-256: 4c0209d2ea474161ba001b3adc2f6be8168b39d0353346d11565be23a15e69eb
+    • Solicitando estampa OpenTimestamps (Blockchain)...
+    ✓ [OTS ÉXITO]: 2c6be17c0292e9e5f9d2a3166e437e5621b42b52a68d3e3e6981ef83cefd0d88
+    ✓ [PDF CREADO]: Guardado en '/home/cuentalimpia/Descargas/cpia_salida_pdfs/Evidencia_Documento_sin_título_15.pdf'
+    • Raíz Merkle Acumulada: 294697f13ee6f1640be6b77c6859d731f52513fb714857ec4a95238a7e0a1e99
+-----------------------------------------------------------------
+
+---> [Procesando Evento #27]: Documento sin título 2
+    • SHA-256: 711e6d824615181c12b00624f6d61a1c11db350ce8103e4a0cfd342b80ff1212
+    • Solicitando estampa OpenTimestamps (Blockchain)...
+    ✓ [OTS ÉXITO]: 016dd39e2fac52c1d17b302e885f669d19389f6668ccf752e10a737bc75343d6
+    ✓ [PDF CREADO]: Guardado en '/home/cuentalimpia/Descargas/cpia_salida_pdfs/Evidencia_Documento_sin_título_2.pdf'
+    • Raíz Merkle Acumulada: 0d84df01788eac4e1036d74eed4f57e78a2ba38b241d48fe29217590d0701500
+-----------------------------------------------------------------
+
+---> [Procesando Evento #28]: 1000087759.jpg
+    • SHA-256: e37472fbeac33bb37fea5950dabf768567e479e5b505a9207122bc0d9ff39289
+    • Solicitando estampa OpenTimestamps (Blockchain)...
+    ✓ [OTS ÉXITO]: 8e282215b8782a744f3f8bdcc990f114b556400466f6cd1145a0930765c756ee
+    ✓ [PDF CREADO]: Guardado en '/home/cuentalimpia/Descargas/cpia_salida_pdfs/Evidencia_1000087759.pdf'
+    • Raíz Merkle Acumulada: 4e48d6d7757c72bbd21fe5e6865e529d2be0d6895d0543e6065c28467a145df6
+-----------------------------------------------------------------
+
+---> [Procesando Evento #29]: Documento sin título 4
+    • SHA-256: 0e6c83d34b17090d513da223b5b60517f3425904c19057c769f6dce90c0aea46
+    • Solicitando estampa OpenTimestamps (Blockchain)...
+    ✓ [OTS ÉXITO]: fa7229aae6d6643531305f5c69cc688a120036570ef8f8a7b804d4aa7f7a6f7f
+    ✓ [PDF CREADO]: Guardado en '/home/cuentalimpia/Descargas/cpia_salida_pdfs/Evidencia_Documento_sin_título_4.pdf'
+    • Raíz Merkle Acumulada: d0b77ae66221845f7665d5cdcd4792401cd7879020565ba7763d710df2936bd4
+-----------------------------------------------------------------
+
+---> [Procesando Evento #30]: Documento sin título 33
+    • SHA-256: 8556ccd9037c734a450164fbc2effc578af4e9cc2bba49f31e3e7b7266be6cda
+    • Solicitando estampa OpenTimestamps (Blockchain)...
+    ✓ [OTS ÉXITO]: 268cf5a26176bd35bbbd44cdc1a6ad280ba93d521c81a2ac9d0a1c290fe4c60f
+    ✓ [PDF CREADO]: Guardado en '/home/cuentalimpia/Descargas/cpia_salida_pdfs/Evidencia_Documento_sin_título_33.pdf'
+    • Raíz Merkle Acumulada: 95de42be7d29cc0a3dc5e79fd0979b355549086df0c09a39caf2a2dd510ca4ea
+-----------------------------------------------------------------
+
+---> [Procesando Evento #31]: Documento sin título 19
+    • SHA-256: a46a05051ce5cc2b9be08a7d517c348c8e49c15414070e7f112e8a9d85813bed
+    • Solicitando estampa OpenTimestamps (Blockchain)...
+    ✓ [OTS ÉXITO]: 61a068a08fe121467952181dfbe78897228b270e16a6e41302a44bdaf7e79bc8
+    ✓ [PDF CREADO]: Guardado en '/home/cuentalimpia/Descargas/cpia_salida_pdfs/Evidencia_Documento_sin_título_19.pdf'
+    • Raíz Merkle Acumulada: 14a22dca1d87ddf76bd2e4091f91b17ff81366a91f9ef82ee5b4310c90f20304
+-----------------------------------------------------------------
+
+---> [Procesando Evento #32]: Documento sin título 20
+    • SHA-256: ebedfcf5150a6a5d863b3f3091f9029360167cbbf30376d8b7843e46bf787b3c
+    • Solicitando estampa OpenTimestamps (Blockchain)...
+    ✓ [OTS ÉXITO]: 6576e83374b8e03edfcdadd691d5d2708ce7793c0c1911eade524376f8c42dcb
+    ✓ [PDF CREADO]: Guardado en '/home/cuentalimpia/Descargas/cpia_salida_pdfs/Evidencia_Documento_sin_título_20.pdf'
+    • Raíz Merkle Acumulada: 76b183016eac166e29602db5ae921eeff6a728225b6392372524b12d9fe49cc9
+-----------------------------------------------------------------
+
+---> [Procesando Evento #33]: Documento sin título 12
+    • SHA-256: 5b2a8c3dbda367f6d360e2edec845856e5b55da7688b5d7be36de10014e1c60a
+    • Solicitando estampa OpenTimestamps (Blockchain)...
+    ✓ [OTS ÉXITO]: 4732f01d2dee7660c9f32a8189200fa6f2ddfa774d05338c48a091cee58741f4
+    ✓ [PDF CREADO]: Guardado en '/home/cuentalimpia/Descargas/cpia_salida_pdfs/Evidencia_Documento_sin_título_12.pdf'
+    • Raíz Merkle Acumulada: 76fa7e56b38f606c7b61ab46c25a39b38dacdde823f87d335305e33a3958d21a
+-----------------------------------------------------------------
+
+---> [Procesando Evento #34]: Documento sin título 5
+    • SHA-256: 730fddffc84ee3882ee8ec1b635fbd23e64441a0f6455b18c4f6891b2c436850
+    • Solicitando estampa OpenTimestamps (Blockchain)...
+    ✓ [OTS ÉXITO]: c8aa0c0bf13f101f7c9d125f4ba5267d20e43841351f38e9bf0bea985679b2b3
+    ✓ [PDF CREADO]: Guardado en '/home/cuentalimpia/Descargas/cpia_salida_pdfs/Evidencia_Documento_sin_título_5.pdf'
+    • Raíz Merkle Acumulada: a70cc0a9f849908be6cf5222b436d31a9e1f78c935e12442a5cd2064303a35b3
+-----------------------------------------------------------------
+
+---> [Procesando Evento #35]: 1000088767.jpg
+    • SHA-256: d149c06f593ccc9969f0d43aeb31ad4b29a0b74e759f46396e4b7fd603bea859
+    • Solicitando estampa OpenTimestamps (Blockchain)...
+    ✓ [OTS ÉXITO]: 958549f756f97affe6002597a9927e3e42b8896c8b6ee414ecc6016721a5392a
+    ✓ [PDF CREADO]: Guardado en '/home/cuentalimpia/Descargas/cpia_salida_pdfs/Evidencia_1000088767.pdf'
+    • Raíz Merkle Acumulada: 28cd5a68a01200e889bc866960d26e35c1cbc79080fda69888d1296d1a32c727
+-----------------------------------------------------------------
+
+---> [Procesando Evento #36]: 1000089321.jpg
+    • SHA-256: 7ba58643240e53c4c4da383e28f0d353111f7d320b715555c56f5aa5ce78dcf0
+    • Solicitando estampa OpenTimestamps (Blockchain)...
+    ✓ [OTS ÉXITO]: 8cde3de814a02f544e912dbdff9bee03b90c87a9b3e2aade5668900d4971ad77
+    ✓ [PDF CREADO]: Guardado en '/home/cuentalimpia/Descargas/cpia_salida_pdfs/Evidencia_1000089321.pdf'
+    • Raíz Merkle Acumulada: 9f773ea53c5c7764a147899099b5edc380ec0667d864743a863f72ad97c8e455
+-----------------------------------------------------------------
+
+---> [Procesando Evento #37]: Documento sin título 6
+    • SHA-256: 0db27732c618c0f973c105d795dbc12ffcbf000eed350368caee3120afff90bb
+    • Solicitando estampa OpenTimestamps (Blockchain)...
+    ✓ [OTS ÉXITO]: 2a6deda7a61e7e6df4476504a6658fb346cc2af7053460cc144884ea06426ae3
+    ✓ [PDF CREADO]: Guardado en '/home/cuentalimpia/Descargas/cpia_salida_pdfs/Evidencia_Documento_sin_título_6.pdf'
+    • Raíz Merkle Acumulada: f53379cc9e24be354666a11d6f2f96448dd5ddabb06d0d81b813284ab2067a79
+-----------------------------------------------------------------
+
+---> [Procesando Evento #38]: Documento sin título 23
+    • SHA-256: 73110410bb6a73e2ceb5bb9962881696059ff400837def9071f61b0f86fe6fcb
+    • Solicitando estampa OpenTimestamps (Blockchain)...
+    ✓ [OTS ÉXITO]: 9baee5538ce8d10cc048aae43ee91c45c40baf27e0f2a58be3d65a4a914669b4
+    ✓ [PDF CREADO]: Guardado en '/home/cuentalimpia/Descargas/cpia_salida_pdfs/Evidencia_Documento_sin_título_23.pdf'
+    • Raíz Merkle Acumulada: ff705f339317537b13f47fbf744b51cc1556ef2ae740757c42c6d2d942af888d
+-----------------------------------------------------------------
+
+---> [Procesando Evento #39]: 1000087760.jpg
+    • SHA-256: e682af6e825518d65b1665dbb20adbc4fa07832848c274413aafdd6993181e39
+    • Solicitando estampa OpenTimestamps (Blockchain)...
+    ✓ [OTS ÉXITO]: b7069c85eff8ada29863694ff46bed13b522a67732f3b2636203679a8325e85d
+    ✓ [PDF CREADO]: Guardado en '/home/cuentalimpia/Descargas/cpia_salida_pdfs/Evidencia_1000087760.pdf'
+    • Raíz Merkle Acumulada: 46f5c82d73e5c54d6e407f0ed600b18a5e9daadbb5449b3041ff812516d1036b
+-----------------------------------------------------------------
+
+---> [Procesando Evento #40]: Documento sin título 9
+    • SHA-256: bdd851694f91f0e07430a0ab8a74ba15ed43a1cd275989ec4abc08c12494fc70
+    • Solicitando estampa OpenTimestamps (Blockchain)...
+    ✓ [OTS ÉXITO]: f61d85daeb1ccd8c99b2e383a47133a47af899ce30348ee47251e2dd17bb5306
+    ✓ [PDF CREADO]: Guardado en '/home/cuentalimpia/Descargas/cpia_salida_pdfs/Evidencia_Documento_sin_título_9.pdf'
+    • Raíz Merkle Acumulada: f00f2a08939af23da87be1039e31e181de771bd4e396ad7f3e2e8c2c2a0e2c01
+-----------------------------------------------------------------
+
+---> [Procesando Evento #41]: Documento sin título 30
+    • SHA-256: 48d16103f5169a0b480f4617f3514e21e0ef30d56869b29553dfce4117458384
+    • Solicitando estampa OpenTimestamps (Blockchain)...
+    ✓ [OTS ÉXITO]: 3adac69f6ef678bff06d30f49db46c9456075a85dd7198b3614d52eb1d7085a8
+    ✓ [PDF CREADO]: Guardado en '/home/cuentalimpia/Descargas/cpia_salida_pdfs/Evidencia_Documento_sin_título_30.pdf'
+    • Raíz Merkle Acumulada: d19522ee36ecef4d68b060eae2b658c1a359bb19bc9359cfefdb7db34f8e2fa9
+-----------------------------------------------------------------
+
+---> [Procesando Evento #42]: Documento sin título 27
+    • SHA-256: 063d782a997cbdbc75df7132156dec7b1c82d4114b508fef42f4eca6ceb1fa46
+    • Solicitando estampa OpenTimestamps (Blockchain)...
+    ✓ [OTS ÉXITO]: dfededaeddcd2edbc60b39fa9d74ca32987a8a1e5d23e746145159cc29b6bfcc
+    ✓ [PDF CREADO]: Guardado en '/home/cuentalimpia/Descargas/cpia_salida_pdfs/Evidencia_Documento_sin_título_27.pdf'
+    • Raíz Merkle Acumulada: fcf562cba9fe59d72ed2f8a522fb351e6751cf3fd5603923798253a0aeaf6e46
+-----------------------------------------------------------------
+
+---> [Procesando Evento #43]: Documento sin título 21
+    • SHA-256: 959731c944a3683a3f1ef5774143c9be3a035388e3c49293071e6681d0bab1ae
+    • Solicitando estampa OpenTimestamps (Blockchain)...
+    ✓ [OTS ÉXITO]: 07ff5355577ec7ed61887793f1121ca1438d1783c40fcfd9d2da849e5e4bdd44
+    ✓ [PDF CREADO]: Guardado en '/home/cuentalimpia/Descargas/cpia_salida_pdfs/Evidencia_Documento_sin_título_21.pdf'
+    • Raíz Merkle Acumulada: 0d159cbaedab6773606b124b9ea1be1175ae66473d68184ededa439b7c7d1454
+-----------------------------------------------------------------
+
+---> [Procesando Evento #44]: Documento sin título 25
+    • SHA-256: 442c62ba3109a9e8000cb92fee24867640e420a2f1d3d377af37ced1c7bbf2b3
+    • Solicitando estampa OpenTimestamps (Blockchain)...
+    ✓ [OTS ÉXITO]: f188b6608b0e6a4bdebad8756283d73eea8eee3665d0827e2cb56eb449d65315
+    ✓ [PDF CREADO]: Guardado en '/home/cuentalimpia/Descargas/cpia_salida_pdfs/Evidencia_Documento_sin_título_25.pdf'
+    • Raíz Merkle Acumulada: 11677749eb32c303a745d34365c23cb1b9266c337ab14d73b07bd30394bdd319
+-----------------------------------------------------------------
+
+---> [Procesando Evento #45]: Documento sin título 32
+    • SHA-256: db8babbe4d0e1008205136d505ba59067d11f7f9362dac73f6299ad584c744c5
+    • Solicitando estampa OpenTimestamps (Blockchain)...
+    ✓ [OTS ÉXITO]: cab078fbc69c9b64d6843eb2706cfc0f4de3f0067d84a720e331cf36a626d847
+    ✓ [PDF CREADO]: Guardado en '/home/cuentalimpia/Descargas/cpia_salida_pdfs/Evidencia_Documento_sin_título_32.pdf'
+    • Raíz Merkle Acumulada: f60eda7d7979d0925652719ae79b8e5760c7898b14fb1d0cdc2b418beac6b8c9
+-----------------------------------------------------------------
+
+---> [Procesando Evento #46]: Documento sin título 35
+    • SHA-256: 25e473d18eddb01a0cc9e879b6a37dcd9a7ebca99559b5385ee2cd0644585b6d
+    • Solicitando estampa OpenTimestamps (Blockchain)...
+    ✓ [OTS ÉXITO]: e2846e844ce55f58417d55e41df84e6b27864908f2d1f79c2ed581f5ae108627
+    ✓ [PDF CREADO]: Guardado en '/home/cuentalimpia/Descargas/cpia_salida_pdfs/Evidencia_Documento_sin_título_35.pdf'
+    • Raíz Merkle Acumulada: ecbf591fd621e85e1516a315e4eee4704288c902c93c6cef04157825e558b61a
+-----------------------------------------------------------------
+
+---> [Procesando Evento #47]: 1000088764.jpg
+    • SHA-256: d13a8f6a6a43ccf58512a4c3b06a215e55d54c5b947c8ac4eba0e890431f34ec
+    • Solicitando estampa OpenTimestamps (Blockchain)...
+    ✓ [OTS ÉXITO]: c1f5abe650be6914d38234741cfd0b22e377b9b4e8475944085ee8659543155a
+    ✓ [PDF CREADO]: Guardado en '/home/cuentalimpia/Descargas/cpia_salida_pdfs/Evidencia_1000088764.pdf'
+    • Raíz Merkle Acumulada: 3078b0b537113e5dd5573cfdccc1ca6e542b147e89122dec0fffd75dcccac24b
+-----------------------------------------------------------------
+
+---> [Procesando Evento #48]: Documento sin título 36
+    • SHA-256: 3aa947d48564f78c2381b1489b6175e572dd59504f76977511ba5f0eca9e81df
+    • Solicitando estampa OpenTimestamps (Blockchain)...
+    ✓ [OTS ÉXITO]: 6dee08120074d5e8d2ca301afa4bfe5be666485099c7d592bab4bea23bd35f61
+    ✓ [PDF CREADO]: Guardado en '/home/cuentalimpia/Descargas/cpia_salida_pdfs/Evidencia_Documento_sin_título_36.pdf'
+    • Raíz Merkle Acumulada: d587b2811696527801c72d7535076830206fa4f3fedb011a87a6dc92f34c168a
+-----------------------------------------------------------------
+
+[Σ-CPIA] Ingrese ruta (archivo/carpeta), 'texto' (o 'salir'): salir
+
+===========================================================================
+                 RESUMEN DE CIERRE Y REGISTRO MERKLE GLOBAL
+===========================================================================
+Total de eventos procesados: 48
+Raíz Merkle Final: d587b2811696527801c72d7535076830206fa4f3fedb011a87a6dc92f34c168a
+===========================================================================
+cuentalimpia@jhosman-carlos-martinez-cpia-johnson:~$ 
+
+
